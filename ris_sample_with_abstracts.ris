@@ -1,0 +1,2392 @@
+TY  - JOUR
+DO  - 10.2166/nh.2020.267
+UR  - http://dx.doi.org/10.2166/NH.2020.267
+TI  - Analysis of topographic controls on depletion curves derived from airborne lidar snow depth data
+T2  - Hydrology Research
+AU  - Schneider, Dominik
+AU  - Molotch, Noah P.
+AU  - Deems, Jeffrey S.
+AU  - Painter, Thomas H.
+PY  - 2020
+DA  - 2020/11/16
+PB  - IWA Publishing
+SP  - 253-265
+IS  - 1
+VL  - 52
+SN  - 0029-1277
+SN  - 2224-7955
+AB  - Abstract
+               The annual consistency of spatial patterns of snow accumulation and melt suggests that the evolution of these patterns, known as depletion curves, is useful for estimating basin water content and runoff prediction. Theoretical snow cover depletion curves are used in models to parameterize fractional snow-covered area (fSCA) based on modeled estimates of snow accumulation and snowmelt. Directly measuring the spatio-temporal snow distribution, characterization of depletion curves, and understanding how they vary across mountainous landscapes was not possible until the recent U.S. National Aeronautics and Space Administration (NASA) Airborne Snow Observatory (ASO). Herein, for the first time, high-resolution spatio-temporal snow depth information from the ASO is used to derive observation-based snow cover depletion curves across physiographic gradients by estimating the slope of the fSCA–snow depth relationship (i.e. depletion slope). The depletion slope reveals important insights into snow processes as it is strongly related to snow depth variability (r2 = 0.58). Regression tree analysis between observed depletion slopes and physiography, particularly vegetation height and terrain roughness, displays clear nonlinear dynamics and explains 31% of the variance in depletion slope. This unique observation-based analysis of snow cover depletion curves has implications for energy and water flux calculations across many earth system models.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss4art4
+UR  - http://dx.doi.org/10.15447/sfews.2021v19iss4art4
+TI  - Apparent Seasonal Bias in Delta Outflow Estimates as Revealed in the Historical Salinity Record of the San Francisco Estuary: Implications for Delta Net Channel Depletion Estimates
+T2  - San Francisco Estuary and Watershed Science
+AU  - 
+AU  - Hutton, Paul
+AU  - Rath, John
+AU  - 
+AU  - Ateljevich, Eli
+AU  - 
+AU  - Roy, Sujoy
+AU  - 
+PY  - 2021
+DA  - 2021/12/13
+PB  - California Digital Library (CDL)
+IS  - 4
+VL  - 19
+SN  - 1546-2366
+AB  - Accurate estimates of freshwater flow to the San Francisco Estuary are important in successfully regulating this water body, in protecting its beneficial uses, and in accurately modeling its hydrodynamic and water-quality transport regime. For regulatory purposes, freshwater flow to the estuary is not directly measured; rather, it is estimated from a daily balance of upstream Delta inflows, exports, and in-Delta water use termed the net Delta outflow index (NDOI). Field research in the 1960s indicated that NDOI estimates are biased low in summer–fall and biased high in winter–spring as a result of conflating Delta island evapotranspiration estimates with the sum of ungauged hydrologic interactions between channels and islands referred to as net channel depletions. In this work, we employed a 50-year observed salinity record along with gauged tidal flows and an ensemble of five empirical flow-salinity (X2) models to test whether a seasonal bias in Delta outflow estimates could be inferred. We accomplished this objective by conducting statistical analyses and evaluating whether model skill could be improved through seasonal NDOI flow adjustments. Assuming that model residuals are associated with channel depletion uncertainty, our findings corroborate the 1960s research and suggest that channel depletions are biased low in winter months (i.e., NDOI is biased high) and biased high in late summer and early fall months (i.e., NDOI is biased low). The magnitude of seasonal bias, which can reach 1,000 cfs, is a small percentage of typical winter outflow but represents a significant percentage of typical summer outflow. Our findings were derived from five independently developed models, and are consistent with the physical understanding of water exchanges on the islands. This work provides motivation for improved characterization of these exchanges to improve Delta outflow estimates, particularly during drought periods when water supplies are scarce and must be carefully managed.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/hyp.14114
+UR  - http://dx.doi.org/10.1002/hyp.14114
+TI  - Assessing the effects of forest biomass reductions on forest health and streamflow
+T2  - Hydrological Processes
+AU  - Bart, Ryan R.
+AU  - Ray, Ram L.
+AU  - Conklin, Martha H.
+AU  - Safeeq, Mohammad
+AU  - Saksa, Philip C.
+AU  - Tague, Christina L.
+AU  - Bales, Roger C.
+PY  - 2021
+DA  - 2021/03
+PB  - Wiley
+IS  - 3
+VL  - 35
+SN  - 0885-6087
+SN  - 1099-1085
+AB  - AbstractForest biomass reductions in overgrown forests have the potential to provide hydrologic benefits in the form of improved forest health and increased streamflow production in water‐limited systems. Biomass reductions may also alter evaporation. These changes are generated when water that previously would have been transpired or evaporated from the canopy of the removed vegetation is transferred to transpiration of the remaining vegetation, streamflow, and/or non‐canopy evaporation. In this study, we combined a new vegetation‐change water‐balance approach with lumped hydrologic modelling outputs to examine the effects of forest biomass reductions on transpiration of the remaining vegetation and streamflow in California's Sierra Nevada. We found that on average, 102 mm and 263 mm (8.0% and 20.6% of mean annual precipitation [MAP]) of water were made available following 20% and 50% forest biomass‐reduction scenarios, respectively. This water was then partitioned to both streamflow and transpiration of the remaining forest, but to varying degrees depending on post‐biomass‐reduction precipitation levels and forest biomass‐reduction intensity. During dry periods, most of the water (approximately 200 mm [15.7% on MAP] for the 50% biomass‐reduction scenario) was partitioned to transpiration of the remaining trees, while less than 50 mm (3.9% on MAP) was partitioned to streamflow. This increase in transpiration during dry periods would likely help trees maintain forest productivity and resistance to drought. During wet periods, the hydrologic benefits of forest biomass reductions shifted to streamflow (200 mm [15.7% on MAP]) and away from transpiration (less than 150 mm [11.8% on MAP]) as the remaining trees became less water stressed. We also found that streamflow benefits per unit of forest biomass reduction increased with biomass‐reduction intensity, whereas transpiration benefits decreased. By accounting for changes in vegetation, the vegetation‐change water balance developed in this study provided an improved assessment of watershed‐scale forest health benefits associated with forest biomass reductions.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1017/inp.2021.23
+UR  - http://dx.doi.org/10.1017/inp.2021.23
+TI  - Assessing the risk of plant species invasion under different climate change scenarios in California
+T2  - Invasive Plant Science and Management
+AU  - Renteria, Jorge L.
+AU  - Darin, Gina M. Skurka
+AU  - Grosholz, Edwin D.
+PY  - 2021
+DA  - 2021/07/30
+PB  - Cambridge University Press (CUP)
+SP  - 172-182
+IS  - 3
+VL  - 14
+SN  - 1939-7291
+SN  - 1939-747X
+AB  - AbstractUsing species distribution models (SDMs), we predicted the distribution of 170 plant species under different climatic scenarios (current and future climatic conditions) and used this information to create invasion risk maps to identify potential invasion hot spots in California. The risk of invasion by individual species was also assessed using species’ predicted area in combination with some biological traits associated with invasiveness (growth form, reproduction mechanisms, and age of maturity). A higher number of species would find suitable climatic conditions along the coast; the Central Western (CW) and South Western (SW) were ecoregions where a higher number of species were predicted. Overall, hot spots of species distribution were similar under current and future climatic conditions; however, individual species’ predicted area (increase or decrease) was variable depending on the climate change scenario and the greenhouse gas emission. Out of the 170 species assessed, 22% ranked as high-risk species, with herbs, grasses, and vines accounting for 78% within this risk class, and a high proportion (67%) of Asteraceae species ranked as high risk. This study suggests that current climatic conditions of the central and south coastal regions of California would be considered as hot spots of new invasions, and for some species this risk might increase with hotter and drier future climatic conditions.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.3390/w13030312
+UR  - http://dx.doi.org/10.3390/w13030312
+TI  - Assessment of Flood Forecast Products for a Coupled Tributary-Coastal Model
+T2  - Water
+AU  - Cifelli, Robert
+AU  - Johnson, Lynn E.
+AU  - Kim, Jungho
+AU  - Coleman, Tim
+AU  - Pratt, Greg
+AU  - Herdman, Liv
+AU  - Martyr-Koller, Rosanne
+AU  - FinziHart, Juliette A.
+AU  - Erikson, Li
+AU  - Barnard, Patrick
+AU  - Anderson, Michael
+PY  - 2021
+DA  - 2021/01/27
+PB  - MDPI AG
+SP  - 312
+IS  - 3
+VL  - 13
+SN  - 2073-4441
+AB  - Compound flooding, resulting from a combination of riverine and coastal processes, is a complex but important hazard to resolve along urbanized shorelines in the vicinity of river mouths. However, inland flooding models rarely consider oceanographic conditions, and vice versa for coastal flood models. Here, we describe the development of an operational, integrated coastal-watershed flooding model to address this issue of compound flooding in a highly urbanized estuarine environment, San Francisco Bay (CA, USA), where the surrounding communities are susceptible to flooding along the bay shoreline and inland rivers and creeks that drain to the bay. The integrated tributary-coastal forecast model (Hydro-Coastal Storm Modeling System, or Hydro-CoSMoS) was developed to provide water managers and other users with flood forecast information beyond what is currently available. Results presented here are focused on the interaction of the Napa River watershed and the San Pablo Bay at the northern end of San Francisco Bay. This paper describes the modeling setup, the scenario used in a tabletop exercise (TTE), and the assessment of the various flood forecast information products. Hydro-CoSMoS successfully demonstrated the capability to provide watershed and coastal flood information at scales and locations where no such information is currently available and was also successful in showing how tributary flows could be used to inform the coastal storm model during a flooding scenario. The TTE provided valuable feedback on how to guide continued model development and to inform what model outputs and formats are most useful to end-users.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/eco.2303
+UR  - http://dx.doi.org/10.1002/eco.2303
+TI  - Automated analysis of lateral river connectivity and fish stranding risks. Part 2: Juvenile Chinook salmon stranding at a river rehabilitation site
+T2  - Ecohydrology
+AU  - Larrieu, Kenneth G.
+AU  - Pasternack, Gregory B.
+PY  - 2021
+DA  - 2021/05/14
+PB  - Wiley
+IS  - 6
+VL  - 14
+SN  - 1936-0584
+SN  - 1936-0592
+AB  - AbstractThe dynamics of fish stranding have not been academically investigated within the context of physical adjustments to rivers for habitat enhancement purposes. River projects may aim to help fish populations but instead may function as attractive nuisances reducing populations because of unaccounted‐for stranding risk. This study applies a novel algorithm to predict spatially explicit, meter‐resolution fish stranding risk at a river rehabilitation site in California to address three scientific questions. Postproject disconnected wetted area predictions were validated against water surface elevation measurements and time lapse photography of flow reductions and stranding events. A comparison of preproject, final design, and postproject topographies revealed that the occurrence and severity of stranding events is highly sensitive to side‐channel topographic structure and postproject morphodynamic change. Even with moderate flows, side‐channel exits tend to close off by bars built across them via bedload transport. Implications for river management practices and river rehabilitation project design are discussed.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.scitotenv.2020.144715
+UR  - http://dx.doi.org/10.1016/j.scitotenv.2020.144715
+TI  - Bayesian machine learning ensemble approach to quantify model uncertainty in predicting groundwater storage change
+T2  - Science of The Total Environment
+AU  - Yin, Jina
+AU  - Medellín-Azuara, Josué
+AU  - Escriva-Bou, Alvar
+AU  - Liu, Zhu
+PY  - 2021
+DA  - 2021/05
+PB  - Elsevier BV
+SP  - 144715
+VL  - 769
+SN  - 0048-9697
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.anbehav.2021.07.019
+UR  - http://dx.doi.org/10.1016/j.anbehav.2021.07.019
+TI  - Bridging animal personality with space use and resource use in a free-ranging population of an asocial ground squirrel
+T2  - Animal Behaviour
+AU  - Aliperti, Jaclyn R.
+AU  - Davis, Brittany E.
+AU  - Fangue, Nann A.
+AU  - Todgham, Anne E.
+AU  - Van Vuren, Dirk H.
+PY  - 2021
+DA  - 2021/10
+PB  - Elsevier BV
+SP  - 291-306
+VL  - 180
+SN  - 0003-3472
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s00382-021-05944-0
+UR  - http://dx.doi.org/10.1007/s00382-021-05944-0
+TI  - Causal effect of the tropical Pacific sea surface temperature on the Upper Colorado River Basin spring precipitation
+T2  - Climate Dynamics
+AU  - Zhao, Siyu
+AU  - Zhang, Jiaying
+PY  - 2021
+DA  - 2021/08/26
+PB  - Springer Science and Business Media LLC
+SP  - 941-959
+IS  - 3-4
+VL  - 58
+SN  - 0930-7575
+SN  - 1432-0894
+AB  - AbstractThe Colorado River is one of the most important rivers in the southwestern U.S., with ~ 90% of the total flow originating from the Upper Colorado River Basin (UCRB). The UCRB April–July streamflow is well-correlated to the UCRB spring precipitation. It is known that the UCRB precipitation is linked to an El Niño-like sea surface temperature (SST) pattern, but the causal effect of the tropical Pacific SST on the UCRB spring precipitation is still uncertain. Here, we apply a Granger causality approach to understand the causal effect of the tropical Pacific averaged SST in previous three seasons (winter, fall, and summer) on the UCRB averaged precipitation in spring in observations and two climate models. In observations, only the winter SST has Granger causal effect (withp-value ~ 0.05) on spring precipitation, while historical simulations of the two climate models overestimate the causal effect for winter and fall (withp-value &lt; 0.01 and &lt; 0.05, respectively) due to model biases. Moreover, future projections of the two climate models show divergent causal effects, especially for the scenario with high anthropogenic emissions. The divergent projections indicate that (1) there are large uncertainties in model projections of the causal effect of the tropical Pacific SST on UCRB spring precipitation and (2) it is uncertain whether climate models can reliably capture changes in such causality. These uncertainties may result in large uncertainties in seasonal forecasts of the UCRB hydroclimate under global climate change.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1130/g48114.1
+UR  - http://dx.doi.org/10.1130/G48114.1
+TI  - Characterizing strain between rigid crustal blocks in the southern Cascadia forearc: Quaternary faults and folds of the northern Sacramento Valley, California
+T2  - Geology
+AU  - Angster, Stephen
+AU  - Wesnousky, Steven
+AU  - Figueiredo, Paula
+AU  - Owen, Lewis A.
+AU  - Sawyer, Thomas
+PY  - 2020
+DA  - 2020/12/10
+PB  - Geological Society of America
+SP  - 387-391
+IS  - 4
+VL  - 49
+SN  - 0091-7613
+SN  - 1943-2682
+AB  - AbstractTopographic profiles across late Quaternary surfaces in the northern Sacramento Valley (California, USA) show offset and progressive folding on series of active east- and northeast-trending faults and folds. Optically stimulated luminescence ages on deposits draping a warped late Pleistocene river terrace yielded differential incision rates along the Sacramento River and indicate tectonic uplift equal to 0.2 ± 0.1 and 0.6 ± 0.2 mm/yr above the anticline of the Inks Creek fold system and Red Bluff fault, respectively. Uplift rates correspond to a total of 1.3 ± 0.4 mm/yr of north-directed crustal shortening, accounting for all of the geodetically observed contractional strain in the northern Sacramento Valley, but only part of the far-field contraction between the Sierra Nevada–Great Valley and Oregon Coast blocks. These structures define the southern limit of the transpressional transition between the two blocks.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.3390/w13192661
+UR  - http://dx.doi.org/10.3390/w13192661
+TI  - Comparison of Deterministic and Statistical Models for Water Quality Compliance Forecasting in the San Joaquin River Basin, California
+T2  - Water
+AU  - Quinn, Nigel W. T.
+AU  - Tansey, Michael K.
+AU  - Lu, James
+PY  - 2021
+DA  - 2021/09/27
+PB  - MDPI AG
+SP  - 2661
+IS  - 19
+VL  - 13
+SN  - 2073-4441
+AB  - Model selection for water quality forecasting depends on many factors including analyst expertise and cost, stakeholder involvement and expected performance. Water quality forecasting in arid river basins is especially challenging given the importance of protecting beneficial uses in these environments and the livelihood of agricultural communities. In the agriculture-dominated San Joaquin River Basin of California, real-time salinity management (RTSM) is a state-sanctioned program that helps to maximize allowable salt export while protecting existing basin beneficial uses of water supply. The RTSM strategy supplants the federal total maximum daily load (TMDL) approach that could impose fines associated with exceedances of monthly and annual salt load allocations of up to $1 million per year based on average year hydrology and salt load export limits. The essential components of the current program include the establishment of telemetered sensor networks, a web-based information system for sharing data, a basin-scale salt load assimilative capacity forecasting model and institutional entities tasked with performing weekly forecasts of river salt assimilative capacity and scheduling west-side drainage export of salt loads. Web-based information portals have been developed to share model input data and salt assimilative capacity forecasts together with increasing stakeholder awareness and involvement in water quality resource management activities in the river basin. Two modeling approaches have been developed simultaneously. The first relies on a statistical analysis of the relationship between flow and salt concentration at three compliance monitoring sites and the use of these regression relationships for forecasting. The second salt load forecasting approach is a customized application of the Watershed Analysis Risk Management Framework (WARMF), a watershed water quality simulation model that has been configured to estimate daily river salt assimilative capacity and to provide decision support for real-time salinity management at the watershed level. Analysis of the results from both model-based forecasting approaches over a period of five years shows that the regression-based forecasting model, run daily Monday to Friday each week, provided marginally better performance. However, the regression-based forecasting model assumes the same general relationship between flow and salinity which breaks down during extreme weather events such as droughts when water allocation cutbacks among stakeholders are not evenly distributed across the basin. A recent test case shows the utility of both models in dealing with an exceedance event at one compliance monitoring site recently introduced in 2020.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss3art2
+UR  - http://dx.doi.org/10.15447/sfews.2021v19iss3art2
+TI  - Comparison of Length-at-Date Criteria and Genetic Run Assignments for Juvenile Chinook Salmon Caught at Sacramento and Chipps Island in the Sacramento–San Joaquin Delta of California
+T2  - San Francisco Estuary and Watershed Science
+AU  - 
+AU  - Brandes, Patricia
+AU  - Pyper, Brian
+AU  - 
+AU  - Banks, Michael
+AU  - 
+AU  - Jacobsen, David
+AU  - 
+AU  - Garrison, Tommy
+AU  - 
+AU  - Cramer, Steve
+AU  - 
+PY  - 2021
+DA  - 2021/09/24
+PB  - California Digital Library (CDL)
+IS  - 3
+VL  - 19
+SN  - 1546-2366
+AB  - There are four distinct runs of Chinook Salmon (Oncorhynchus tshawytscha) in the Central Valley, named after their primary adult return times: fall, late-fall, winter, and spring run. Estimating the run-specific composition of juveniles entering and leaving the Sacramento–San Joaquin Delta is crucial for assessing population status and processes that affect juvenile survival through the Delta. Historically, the run of juvenile Chinook Salmon captured in the field has been determined using a length-at-date criteria (LDC); however, LDC run assignments may be inaccurate if there is high overlap in the run-specific timing and size of juveniles entering and leaving the Delta. In this study, we use genetic run assignments to assess the accuracy of LDC at two trawl locations in the Sacramento River (Delta entry) and at Chipps Island (Delta exit). Fin tissues were collected from approximately 7,500 juvenile Chinook Salmon captured in trawl samples between 2007 and 2011. Tissues were analyzed using 21 microsatellites to determine genetic run assignments for individuals, which we compared with LDC run assignments. Across years, there was extensive overlap among the distributions of run-specific fork lengths of genetically identified juveniles, indicating that run compositions based on LDC assignments would tend to underestimate fall-run and especially late-fall-run compositions at both trawl locations, and greatly overestimate spring-run compositions (both locations) and winter-run compositions (Chipps Island). We therefore strongly support ongoing efforts to include tissue sampling and genetic run identification of juvenile Chinook Salmon at key monitoring locations in the Sacramento–San Joaquin River system.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s12237-021-00896-4
+UR  - http://dx.doi.org/10.1007/s12237-021-00896-4
+TI  - Complex Tidal Marsh Dynamics Structure Fish Foraging Patterns in the San Francisco Estuary
+T2  - Estuaries and Coasts
+AU  - Colombano, Denise D.
+AU  - Handley, Thomas B.
+AU  - O’Rear, Teejay A.
+AU  - Durand, John R.
+AU  - Moyle, Peter B.
+PY  - 2021
+DA  - 2021/02/09
+PB  - Springer Science and Business Media LLC
+SP  - 1604-1618
+IS  - 6
+VL  - 44
+SN  - 1559-2723
+SN  - 1559-2731
+AB  - AbstractMechanisms driving the consumption and transport of tidal marsh nutrients and energy by fishes are of key interest in the San Francisco Estuary, CA, USA. By combining multiple data sources (gill-net catches, gut contents, channel morphology, tides), we modeled spatial and temporal patterns of fish abundance and gut fullness across a tidal marsh elevation gradient. Channel depth, microhabitat, and tide were important predictors of fish abundance and gut fullness. Species, feeding guild, and season were also important to fish abundance but not to gut fullness, suggesting that abundance was more related to physical constraints of shallow water than to prey availability. Multiple feeding guilds overlapped in space and time at interaction hotspots in subtidal channel habitat near the marsh entrance. In contrast, fish use of shallow intertidal marsh channels was more variable and indicated tradeoffs between foraging and predation. Gut content analysis revealed moderate-to-high gut fullness for all feeding guilds and models predicted high gut fullness in subtidal reaches during tidal flooding, after which fish fed intensively throughout the marsh. While mysids, amphipods, and detritus were common prey among feeding guilds, variation in prey consumption was apparent. Overall, complex tidal marsh hydrogeomorphology driving land-water exchange and residence time may diversify and enhance benthic and pelagic food web pathways to fishes and invertebrates. Furthermore, these findings substantiate the notion that dynamic tidal marshes in this system can support robust secondary production, foraging by multiple feeding guilds, and trophic transfer by fishes to the estuarine mosaic.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.3389/fmicb.2021.632264
+UR  - http://dx.doi.org/10.3389/fmicb.2021.632264
+TI  - Covariance of Phytoplankton, Bacteria, and Zooplankton Communities Within Microcystis Blooms in San Francisco Estuary
+T2  - Frontiers in Microbiology
+AU  - Lehman, Peggy W.
+AU  - Kurobe, Tomofumi
+AU  - Huynh, Khiet
+AU  - Lesmeister, Sarah
+AU  - Teh, Swee J.
+PY  - 2021
+DA  - 2021/06/07
+PB  - Frontiers Media SA
+VL  - 12
+SN  - 1664-302X
+AB  - Microcystis blooms have occurred in upper San Francisco Estuary (USFE) since 1999, but their potential impacts on plankton communities have not been fully quantified. Five years of field data collected from stations across the freshwater reaches of the estuary were used to identify the plankton communities that covaried with Microcystis blooms, including non-photosynthetic bacteria, cyanobacteria, phytoplankton, zooplankton, and benthic genera using a suite of analyses, including microscopy, quantitative PCR (qPCR), and shotgun metagenomic analysis. Coherence between the abundance of Microcystis and members of the plankton community was determined by hierarchal cluster analysis (CLUSTER) and type 3 similarity profile analysis (SIMPROF), as well as correlation analysis. Microcystis abundance varied with many cyanobacteria and phytoplankton genera and was most closely correlated with the non-toxic cyanobacterium Merismopoedia, the green algae Monoraphidium and Chlamydomonas, and the potentially toxic cyanobacteria Pseudoanabaena, Dolichospermum, Planktothrix, Sphaerospermopsis, and Aphanizomenon. Among non-photosynthetic bacteria, the xenobiotic bacterium Phenylobacterium was the most closely correlated with Microcystis abundance. The coherence of DNA sequences for phyla across trophic levels in the plankton community also demonstrated the decrease in large zooplankton and increase in small zooplankton during blooms. The breadth of correlations between Microcystis and plankton across trophic levels suggests Microcystis influences ecosystem production through bottom-up control during blooms. Importantly, the abundance of Microcystis and other members of the plankton community varied with wet and dry conditions, indicating climate was a significant driver of trophic structure during blooms.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.coastaleng.2021.103984
+UR  - http://dx.doi.org/10.1016/j.coastaleng.2021.103984
+TI  - Drivers of extreme water levels in a large, urban, high-energy coastal estuary – A case study of the San Francisco Bay
+T2  - Coastal Engineering
+AU  - Nederhoff, Kees
+AU  - Saleh, Rohin
+AU  - Tehranirad, Babak
+AU  - Herdman, Liv
+AU  - Erikson, Li
+AU  - Barnard, Patrick L.
+AU  - van der Wegen, Mick
+PY  - 2021
+DA  - 2021/12
+PB  - Elsevier BV
+SP  - 103984
+VL  - 170
+SN  - 0378-3839
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss2art3
+UR  - http://dx.doi.org/10.15447/SFEWS.2021V19ISS2ART3
+TI  - Ecological Effects of Climate-Driven Salinity Variation in the San Francisco Estuary: Can We Anticipate and Manage the Coming Changes?
+T2  - San Francisco Estuary and Watershed Science
+AU  - 
+AU  - Ghalambor, Cameron
+AU  - 
+AU  - Grosholtz, Edwin
+AU  - 
+AU  - Gross, Edward
+AU  - 
+AU  - Jeffries, Kenneth
+AU  - 
+AU  - Largier, John
+AU  - 
+AU  - McCormick, Stephen
+AU  - 
+AU  - Sommer, Ted
+AU  - 
+AU  - Velotta, Johnathan
+AU  - 
+AU  - Whitehead, Andrew
+AU  - 
+PY  - 2020
+DA  - 2020/06/07
+PB  - California Digital Library (CDL)
+IS  - 2
+VL  - 19
+SN  - 1546-2366
+AB  - Climate change-driven sea level rise and altered precipitation regimes are predicted to alter patterns of salt intrusion within the San Francisco Estuary. A central question is: Can we use existing knowledge and future projections to predict and manage the anticipated ecological impacts? This was the subject of a 2018 symposium entitled “Ecological and Physiological Impacts of Salinization of Aquatic Systems from Human Activities.” The symposium brought together an inter-disciplinary group of scientists and researchers, resource managers, and policy-makers. Here, we summarize and review the presentations and discussions that arose during the symposium. From a historical perspective, salt intrusion has changed substantially over the past 10,000 years as a result of changing climate patterns, with additional shifts from recent anthropogenic effects. Current salinity patterns in the San Francisco Estuary are driven by a suite of hydrodynamic processes within the given contexts of water management and geography. Based on climate projections for the coming century, significant changes are expected in the processes that determine the spatial and temporal patterns of salinity. Given that native species—including fishes such as the Delta Smelt and Sacramento Splittail—track favorable habitats, exhibit physiological acclimation, and can adaptively evolve, we present a framework for assessing their vulnerability to altered salinity in the San Francisco Estuary. We then present a range of regulatory and structural management tools that are available to control patterns of salinity within the San Francisco Estuary. Finally, we identify major research priorities that can help fill critical gaps in our knowledge about future salinity patterns and the consequences of climate change and sea level rise. These research projects will be most effective with strong linkages and communication between scientists and researchers, resource managers, and policy-makers.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss2art4
+UR  - http://dx.doi.org/10.15447/SFEWS.2021V19ISS2ART4
+TI  - Effects of Tidally Varying River Flow on Entrainment of Juvenile Salmon into Sutter and Steamboat Sloughs
+T2  - San Francisco Estuary and Watershed Science
+AU  - 
+AU  - Romine, Jason
+AU  - Perry, Russell
+AU  - 
+AU  - Stumpner, Paul
+AU  - 
+AU  - Blake, Aaron
+AU  - 
+AU  - Burau, John
+AU  - 
+PY  - 2020
+DA  - 2020/06/07
+PB  - California Digital Library (CDL)
+IS  - 2
+VL  - 19
+SN  - 1546-2366
+AB  - Survival of juvenile salmonids in the Sacramento–San Joaquin Delta (Delta) varies by migration route, and thus the proportion of fish that use each route affects overall survival through the Delta. Understanding factors that drive routing at channel junctions along the Sacramento River is therefore critical to devising management strategies that maximize survival. Here, we examine entrainment of acoustically tagged juvenile Chinook Salmon into Sutter and Steamboat sloughs from the Sacramento River. Because these sloughs divert fish away from the downstream entrances of the Delta Cross Channel and Georgiana Slough (where fish access the low-survival region of the interior Delta), management actions to increase fish entrainment into Sutter and Steamboat sloughs are being investigated to increase through-Delta survival. Previous studies suggest that fish generally “go with the flow”—as net flow into a divergence increases, the proportion of fish that enter that divergence correspondingly increases. However, complex tidal hydrodynamics at sub-daily time-scales may be decoupled from net flow. Therefore, we modeled routing of acoustic tagged juvenile salmon as a function of tidally varying hydrodynamic data, which was collected using temporary gaging stations deployed between March and May of 2014. Our results indicate that discharge, the proportion of flow that entered the slough, and the rate of change of flow were good predictors of an individual’s probability of being entrained. In addition, interactions between discharge and the proportion of flow revealed a non-linear relationship between flow and entrainment probability. We found that the highest proportions of fish are likely to be entrained into Steamboat Slough and Sutter Slough on the ascending and descending limbs of the tidal cycle, when flow changes from positive to negative. Our findings characterize how patterns of entrainment vary with tidal flow fluctuations, providing information critical for understanding the potential effect of management actions (e.g., fish guidance structures) to modify routing probabilities at this location.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1061/(asce)wr.1943-5452.0001445
+UR  - http://dx.doi.org/10.1061/(ASCE)WR.1943-5452.0001445
+TI  - Enhanced Artificial Neural Networks for Salinity Estimation and Forecasting in the Sacramento-San Joaquin Delta of California
+T2  - Journal of Water Resources Planning and Management
+AU  - Qi, Siyu
+AU  - Bai, Zhaojun
+AU  - Ding, Zhi
+AU  - Jayasundara, Nimal
+AU  - He, Minxue
+AU  - Sandhu, Prabhjot
+AU  - Seneviratne, Sanjaya
+AU  - Kadir, Tariq
+PY  - 2021
+DA  - 2021/10
+PB  - American Society of Civil Engineers (ASCE)
+IS  - 10
+VL  - 147
+SN  - 0733-9496
+SN  - 1943-5452
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/nafm.10582
+UR  - http://dx.doi.org/10.1002/nafm.10582
+TI  - Enumerating Predation on Chinook Salmon, Delta Smelt, and Other San Francisco Estuary Fishes Using Genetics
+T2  - North American Journal of Fisheries Management
+AU  - Brandl, Scott
+AU  - Schreier, Brian
+AU  - Conrad, J. Louise
+AU  - May, Bernie
+AU  - Baerwald, Melinda
+PY  - 2021
+DA  - 2021/02/07
+PB  - Oxford University Press (OUP)
+SP  - 1053-1065
+IS  - 4
+VL  - 41
+SN  - 0275-5947
+SN  - 1548-8675
+AB  - Abstract
+               The establishment of nonnative predatory fish species is a worldwide phenomenon often having adverse effects on native species. Trophic interactions are complex, and uncertainty is a common theme in discussions of nonnative predator management. Several fishes of the San Francisco Estuary have experienced significant declines in recent decades due to multiple factors, including habitat alteration and predation. The role of predation as a direct cause of mortality remains an open question, as does whether habitat conditions play a role in promoting predation on species of concern. Recent studies using visual identification of prey have found little to no evidence of predation on species listed under the Endangered Species Act such as Delta Smelt Hypomesus transpacificus and juvenile Chinook Salmon Oncorhynchus tshawytscha. To increase the likelihood of detecting predation, this study employed a genetic approach. We combined this technique with habitat and water quality data to investigate the role that habitat may be playing on incidence of predation. This study focused on detection of predation on Chinook Salmon and Delta Smelt, six other native fish species, and six nonnative fish species by Striped Bass Morone saxatilis and other piscivores. Unlike previous studies in the region, the proportion of predators with no prey detected in their gut contents was high (47–81%). The study detected Delta Smelt in 1.3% of Striped Bass—considerably higher than other contemporary predation studies in the Sacramento–San Joaquin Delta. In April 2014, 6.6% of Striped Bass were positive for Chinook Salmon—substantially higher than observed in recent visual diet studies. Interestingly, native species comprised a relatively high proportion of Striped Bass prey (60%). Water temperature and conductivity were identified as significant predictors of Chinook Salmon presence in Striped Bass gut contents. This research also suggests that predation on soft-bodied prey may be an overlooked segment of the diets of piscivores.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1061/(asce)wr.1943-5452.0001410
+UR  - http://dx.doi.org/10.1061/(ASCE)WR.1943-5452.0001410
+TI  - Establishing a Range of Extreme Precipitation Estimates in California for Planning in the Face of Climate Change
+T2  - Journal of Water Resources Planning and Management
+AU  - Feldman, Daniel R.
+AU  - Tadić, Jovan M.
+AU  - Arnold, Wyatt
+AU  - Schwarz, Andrew
+PY  - 2021
+DA  - 2021/09
+PB  - American Society of Civil Engineers (ASCE)
+IS  - 9
+VL  - 147
+SN  - 0733-9496
+SN  - 1943-5452
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1061/(asce)wr.1943-5452.0001348
+UR  - http://dx.doi.org/10.1061/(ASCE)WR.1943-5452.0001348
+TI  - Estimating Agricultural Groundwater Withdrawals with Energy Data
+T2  - Journal of Water Resources Planning and Management
+AU  - Martindill, Jonathan R.
+AU  - Good, Robert T.
+AU  - Loge, Frank J.
+PY  - 2021
+DA  - 2021/05
+PB  - American Society of Civil Engineers (ASCE)
+IS  - 5
+VL  - 147
+SN  - 0733-9496
+SN  - 1943-5452
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1029/2021jd035403
+UR  - http://dx.doi.org/10.1029/2021JD035403
+TI  - Evaluating the Meteorological Conditions Associated With Dusty Atmospheric Rivers
+T2  - Journal of Geophysical Research: Atmospheres
+AU  - Voss, Kara K.
+AU  - Evan, Amato T.
+AU  - Ralph, F. Martin
+PY  - 2021
+DA  - 2021/12/10
+PB  - American Geophysical Union (AGU)
+IS  - 24
+VL  - 126
+SN  - 2169-897X
+SN  - 2169-8996
+AB  - AbstractTrans‐Pacific dust has been shown to influence the micro‐physical characteristics of atmospheric rivers that make landfall along the U.S. west coast. Atmospheric Rivers (AR) reaching North America provide valuable water resources, but also can produce damaging floods. While substantial research has been devoted to understanding the structure and meteorological drivers of atmospheric rivers, far less is known about the conditions that lead to the presence of dust within and around these storms. Here, we utilize an 18‐year record of the dust content of AR surroundings combined with satellite, reanalysis, and observational meteorological data to understand the drivers of ARs embedded within dusty environments, or “dusty ARs,” as compared to ARs in more pristine environments. We find that dusty ARs are associated with transport of dust from the east Asian coast to North America. Dusty ARs are characterized by conditions that are especially conducive to transport of dust across the Pacific; namely, enhanced mid‐ to upper‐tropospheric westerly winds over Asian dust source regions and over the Pacific. In contrast, ARs in more pristine environments are associated with a persistent ridge over the central Pacific, which blocks zonal westerly flow, as well as continental dust. We also show that while trans‐Pacific dust is largely confined to the 600–200 hPa levels, this dust flows downward along post‐cold frontal isentropic surfaces into the AR environment in the lower troposphere.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1029/2020jd033775
+UR  - http://dx.doi.org/10.1029/2020JD033775
+TI  - Evaluation of Atmospheric Boundary Layer Height From Wind Profiling Radar and Slab Models and Its Responses to Seasonality of Land Cover, Subsidence, and Advection
+T2  - Journal of Geophysical Research: Atmospheres
+AU  - Rey‐Sanchez, Camilo
+AU  - Wharton, Sonia
+AU  - Vilà‐Guerau de Arellano, Jordi
+AU  - Paw U, Kyaw Tha
+AU  - Hemes, Kyle S.
+AU  - Fuentes, Jose D.
+AU  - Osuna, Jessica
+AU  - Szutu, Daphne
+AU  - Ribeiro, João Vinicius
+AU  - Verfaillie, Joseph
+AU  - Baldocchi, Dennis
+PY  - 2021
+DA  - 2021/03/29
+PB  - American Geophysical Union (AGU)
+IS  - 7
+VL  - 126
+SN  - 2169-897X
+SN  - 2169-8996
+AB  - AbstractIn this study, we evaluated the effect of land cover, atmospheric subsidence, and advection on the annual dynamics of atmospheric boundary layer (ABL) height from two contrasting sites. The first site is the Walker Branch forest, a deciduous forest of temperate climate, complex topography, and cloudy summers. The second site is the Sacramento‐San Joaquin River Delta, a site of Mediterranean climate, flat terrain on a local scale, and clear summers. After testing a new algorithm to calculate ABL heights from 915 MHz radar wind profilers, we evaluated a hierarchy of three slab models to recreate the diurnal and annual patterns of ABL growth. We found that the lower ABL heights in the Delta, particularly during late summer, are driven by the combined effects of increased atmospheric subsidence and marine air advection. In both sites, the annual pattern of ABL height was strongly correlated to total daily incoming radiation, and in the Delta, the annual pattern of ABL height closely followed the seasonal patterns of sensible heat flux from a mosaic of different land covers. A land composite of latent and sensible heat fluxes obtained through a meso‐network of eddy covariance measurements and the ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) mission resulted in higher model skill, thus showing that land cover heterogeneity is an important driver of ABL growth. Model simulations show that in the Delta, restoring agricultural land to wetlands with large open water areas could result in a reduction of ABL height during those months with low subsidence and advection.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1175/jhm-d-20-0219.1
+UR  - http://dx.doi.org/10.1175/JHM-D-20-0219.1
+TI  - Evaluation of the subseasonal forecast skill of floods associated with atmospheric rivers in coastal Western U.S. watersheds
+T2  - Journal of Hydrometeorology
+AU  - Cao, Qian
+AU  - Shukla, Shraddhanand
+AU  - DeFlorio, Michael J.
+AU  - Ralph, F. Martin
+AU  - Lettenmaier, Dennis P.
+PY  - 2021
+DA  - 2021/04/20
+PB  - American Meteorological Society
+SN  - 1525-755X
+SN  - 1525-7541
+AB  - AbstractAtmospheric rivers (ARs) are responsible for up to 90% of major flood events along the U.S. West Coast. The timescale of subseasonal forecasting (two weeks to one month) is a critical lead time for proactive mitigation of flood disasters. The NOAA/Climate Testbed Subseasonal Experiment (SubX) is a research-to-operations project with almost immediate availability of forecasts. It has produced a reforecast database that facilitates evaluation of flood forecasts at these subseasonal lead times. Here, we examine the SubX driven forecast skill of AR-related flooding out to 4-week lead using the Distributed Hydrology Soil Vegetation Model (DHSVM), with particular attention to the role of antecedent soil moisture (ASM), which modulates the relationship between meteorological and hydrological forecast skill. We study three watersheds along a transect of the U.S. West Coast: the Chehalis River basin in Washington, the Russian River basin in Northern California, and the Santa Margarita River basin in Southern California. We find that the SubX driven flood forecast skill drops quickly after week 1, during which there is relatively high deterministic forecast skill. We find some probabilistic forecast skill relative to climatology as well as ensemble streamflow prediction (ESP) in week 2, but minimal skill in weeks 3-4, especially for annual maximum floods, notwithstanding some probabilistic skill for smaller floods in week 3. Using ESP and reverse-ESP experiments to consider the relative influence of ASM and SubX reforecast skill, we find that ASM dominates probabilistic forecast skill only for small flood events at week 1, while SubX reforecast skill dominates for large flood events at all lead times.
+
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-52171-4_57
+UR  - http://dx.doi.org/10.1007/978-3-030-52171-4_57
+TI  - Evapotranspiration Measurements and Calculations
+T2  - Springer Handbooks
+AU  - Allen, Richard
+AU  - Foken, Thomas
+AU  - Kilic, Ayse
+AU  - Trezza, Ricardo
+AU  - Ortega-Farias, Samuel
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 1531-1567
+SN  - 2522-8692
+SN  - 2522-8706
+SN  - 9783030521707
+SN  - 9783030521714
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.memsci.2021.119135
+UR  - http://dx.doi.org/10.1016/j.memsci.2021.119135
+TI  - Evidence of solution-diffusion-with-defects in an engineering-scale pressure retarded osmosis system
+T2  - Journal of Membrane Science
+AU  - Binger, Zachary M.
+AU  - O'Toole, Galen
+AU  - Achilli, Andrea
+PY  - 2021
+DA  - 2021/05
+PB  - Elsevier BV
+SP  - 119135
+VL  - 625
+SN  - 0376-7388
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss2art5
+UR  - http://dx.doi.org/10.15447/SFEWS.2021V19ISS2ART5
+TI  - Examining Retention-at-Length of Pelagic Fishes Caught in the Fall Midwater Trawl Survey
+T2  - San Francisco Estuary and Watershed Science
+AU  - 
+AU  - Mitchell, Lara
+AU  - Baxter, Randall
+AU  - 
+PY  - 2020
+DA  - 2020/06/07
+PB  - California Digital Library (CDL)
+IS  - 2
+VL  - 19
+SN  - 1546-2366
+AB  - The Fall Midwater Trawl Survey has provided data on aquatic organisms in the San Francisco Estuary for over five decades. In 2014–2015, a study was conducted to investigate and quantify the efficiency of this trawl for catching the endangered fish species Delta Smelt (Hypomesus transpacificus). In an analysis based on that study, we calculated retention probability—the probability that a Delta Smelt is retained in the cod end of the trawl—as a function of fish length and fit a selectivity curve reflecting the relationship between size and retention. Here we return to the same gear efficiency study and further utilize the data set by (1) fitting selectivity curves for three additional pelagic fish species: Threadfin Shad (Dorosoma petenense), American Shad (Alosa sapidissima), and Mississippi Silverside (Menidia beryllina), (2) refitting the selectivity curve for Delta Smelt to incorporate between-haul variability, and (3) calculating the lengths of 50% and 95% retention in order to characterize and compare the resulting selectivity curves. We also present retention data on age-0 Striped Bass (Morone saxatilis), all of which were retained in the cod end. We found that Threadfin Shad, American Shad, and Delta Smelt are 95% retained at 45, 49, and 61 mm fork length, respectively. Because data were limited for Mississippi Silverside, American Shad, and age-0 Striped Bass, we used body shape, in conjunction with retention data, to develop hypotheses about selectivity based on whether each species’ body shape resembles that of Threadfin Shad, which are more deep-bodied and laterally compressed, or Delta Smelt, which are more fusiform. We also found that retention-at-length was more variable for Delta Smelt than for Threadfin Shad, potentially because length is a good predictor of retention in deep-bodied, laterally compressed fish whereas maximum girth is a better predictor of retention in fusiform fish.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1029/2021wr029699
+UR  - http://dx.doi.org/10.1029/2021WR029699
+TI  - Exploring the Model Space of Airborne Electromagnetic Data to Delineate Large‐Scale Structure and Heterogeneity Within an Aquifer System
+T2  - Water Resources Research
+AU  - Kang, S.
+AU  - Knight, R.
+AU  - Greene, T.
+AU  - Buck, C.
+AU  - Fogg, G.
+PY  - 2021
+DA  - 2021/10
+PB  - American Geophysical Union (AGU)
+IS  - 10
+VL  - 57
+SN  - 0043-1397
+SN  - 1944-7973
+AB  - AbstractAirborne electromagnetic (AEM) data can be inverted to recover models of the electrical resistivity of the subsurface; these, in turn, can be transformed to obtain models of sediment type. AEM data were acquired in Butte and Glenn Counties, California, USA to improve the understanding of the aquifer system. Around 800 line‐kilometers of high‐quality data were acquired, imaging to a depth of ∼300 m. We developed a workflow designed to obtain, from the AEM data, information about the large‐scale structure and heterogeneity of the aquifer system to better understand the vertical connectivity. Using six different inversions incorporating various forms of available information and posterior sampling of the recovered resistivity models, we produced 6,006 resistivity models. These models were transformed to models of sediment type and estimates of percentage of sand/gravel. Exploring the model space, containing the resistivity models and the derived models, allowed us to delineate the large‐scale structure of the aquifer system in a way that captures and communicates the uncertainty in the identified sediment type. The uncertainty increased, as expected, with depth, but also served to indicate, as areas of high uncertainty in sediment type, the location of both large‐scale and small‐scale interfaces between sediment types. A plan view map of the integrated percentage of sand/gravel, when compared to existing hydrographs, revealed the extent of lateral changes in vertical connectivity within the aquifer system throughout the study area.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/edn3.226
+UR  - http://dx.doi.org/10.1002/EDN3.226
+TI  - Feeding habits and novel prey of larval fishes in the northern San Francisco Estuary
+T2  - Environmental DNA
+AU  - Jungbluth, Michelle J.
+AU  - Burns, Jillian
+AU  - Grimaldo, Lenny
+AU  - Slaughter, Anne
+AU  - Katla, Aspen
+AU  - Kimmerer, Wim
+PY  - 2021
+DA  - 2021/09/23
+PB  - Wiley
+SP  - 1059-1080
+IS  - 6
+VL  - 3
+SN  - 2637-4943
+SN  - 2637-4943
+AB  - AbstractFood limitation can dampen the survival and growth of fish species during early development. To investigate prey diversity important to the planktivorous larval longfin smelt (Spirinchus thaleichthys) and Pacific herring (Clupea pallasii) from the San Francisco Estuary, we used DNA metabarcoding analysis of the cytochrome oxidase I gene on the guts of these fishes and on environmental zooplankton samples, in comparison with results from abundance analyses of zooplankton samples. Overall, both fish consumed the prey that were commonly available and relatively abundant: Diets were dominated by arthropods but also included soft‐bodied and difficult to identify organisms. Prey taxa substantially overlapped between the two species (Schoener's index = 0.66), and alpha diversity analysis suggested high variability in the content of guts from different individuals. Abundant prey taxa in both fish species included the copepods Eurytemora carolleeae, Acanthocyclops americanus, and A. robustus; Acanthocyclops spp. are difficult to distinguish morphologically. Differential abundance analysis suggested that both species consumed the most abundant zooplankton in lower proportions than their availability in the environment. A few uncommon prey observed in the diets may hint at feeding strategies employed by the larvae, such as herring DNA in the longfin smelt diets, suggesting feeding on eggs near substrates or schooling behavior. Herring consumed the small (&lt;0.5 mm) copepod Limnoithona tetraspina much more frequently (30%) than did smelt (2%), possibly indicating differences in foraging behavior or sensory abilities. Among the unexpected prey found in the diets was the cnidarian Hydra oligactis, the polychaete Dasybranchus sp., and the copepod Mesocyclops pehpeiensis, a species not previously described in the San Francisco Estuary. Our findings illustrate the power of molecular methods in revealing feeding patterns and novel plankton diversity that can be undetectable with complementary morphological analysis methods.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.5194/essd-13-3607-2021
+UR  - http://dx.doi.org/10.5194/essd-13-3607-2021
+TI  - FLUXNET-CH<sub>4</sub>: a global, multi-ecosystem dataset and analysis of methane seasonality from freshwater wetlands
+T2  - Earth System Science Data
+AU  - Delwiche, Kyle B.
+AU  - Knox, Sara Helen
+AU  - Malhotra, Avni
+AU  - Fluet-Chouinard, Etienne
+AU  - McNicol, Gavin
+AU  - Feron, Sarah
+AU  - Ouyang, Zutao
+AU  - Papale, Dario
+AU  - Trotta, Carlo
+AU  - Canfora, Eleonora
+AU  - Cheah, You-Wei
+AU  - Christianson, Danielle
+AU  - Alberto, Ma. Carmelita R.
+AU  - Alekseychik, Pavel
+AU  - Aurela, Mika
+AU  - Baldocchi, Dennis
+AU  - Bansal, Sheel
+AU  - Billesbach, David P.
+AU  - Bohrer, Gil
+AU  - Bracho, Rosvel
+AU  - Buchmann, Nina
+AU  - Campbell, David I.
+AU  - Celis, Gerardo
+AU  - Chen, Jiquan
+AU  - Chen, Weinan
+AU  - Chu, Housen
+AU  - Dalmagro, Higo J.
+AU  - Dengel, Sigrid
+AU  - Desai, Ankur R.
+AU  - Detto, Matteo
+AU  - Dolman, Han
+AU  - Eichelmann, Elke
+AU  - Euskirchen, Eugenie
+AU  - Famulari, Daniela
+AU  - Fuchs, Kathrin
+AU  - Goeckede, Mathias
+AU  - Gogo, Sébastien
+AU  - Gondwe, Mangaliso J.
+AU  - Goodrich, Jordan P.
+AU  - Gottschalk, Pia
+AU  - Graham, Scott L.
+AU  - Heimann, Martin
+AU  - Helbig, Manuel
+AU  - Helfter, Carole
+AU  - Hemes, Kyle S.
+AU  - Hirano, Takashi
+AU  - Hollinger, David
+AU  - Hörtnagl, Lukas
+AU  - Iwata, Hiroki
+AU  - Jacotot, Adrien
+AU  - Jurasinski, Gerald
+AU  - Kang, Minseok
+AU  - Kasak, Kuno
+AU  - King, John
+AU  - Klatt, Janina
+AU  - Koebsch, Franziska
+AU  - Krauss, Ken W.
+AU  - Lai, Derrick Y. F.
+AU  - Lohila, Annalea
+AU  - Mammarella, Ivan
+AU  - Belelli Marchesini, Luca
+AU  - Manca, Giovanni
+AU  - Matthes, Jaclyn Hatala
+AU  - Maximov, Trofim
+AU  - Merbold, Lutz
+AU  - Mitra, Bhaskar
+AU  - Morin, Timothy H.
+AU  - Nemitz, Eiko
+AU  - Nilsson, Mats B.
+AU  - Niu, Shuli
+AU  - Oechel, Walter C.
+AU  - Oikawa, Patricia Y.
+AU  - Ono, Keisuke
+AU  - Peichl, Matthias
+AU  - Peltola, Olli
+AU  - Reba, Michele L.
+AU  - Richardson, Andrew D.
+AU  - Riley, William
+AU  - Runkle, Benjamin R. K.
+AU  - Ryu, Youngryel
+AU  - Sachs, Torsten
+AU  - Sakabe, Ayaka
+AU  - Sanchez, Camilo Rey
+AU  - Schuur, Edward A.
+AU  - Schäfer, Karina V. R.
+AU  - Sonnentag, Oliver
+AU  - Sparks, Jed P.
+AU  - Stuart-Haëntjens, Ellen
+AU  - Sturtevant, Cove
+AU  - Sullivan, Ryan C.
+AU  - Szutu, Daphne J.
+AU  - Thom, Jonathan E.
+AU  - Torn, Margaret S.
+AU  - Tuittila, Eeva-Stiina
+AU  - Turner, Jessica
+AU  - Ueyama, Masahito
+AU  - Valach, Alex C.
+AU  - Vargas, Rodrigo
+AU  - Varlagin, Andrej
+AU  - Vazquez-Lule, Alma
+AU  - Verfaillie, Joseph G.
+AU  - Vesala, Timo
+AU  - Vourlitis, George L.
+AU  - Ward, Eric J.
+AU  - Wille, Christian
+AU  - Wohlfahrt, Georg
+AU  - Wong, Guan Xhuan
+AU  - Zhang, Zhen
+AU  - Zona, Donatella
+AU  - Windham-Myers, Lisamarie
+AU  - Poulter, Benjamin
+AU  - Jackson, Robert B.
+PY  - 2021
+DA  - 2021/07/29
+PB  - Copernicus GmbH
+SP  - 3607-3689
+IS  - 7
+VL  - 13
+SN  - 1866-3516
+AB  - Abstract. Methane (CH4) emissions from natural landscapes constitute
+roughly half of global CH4 contributions to the atmosphere, yet large
+uncertainties remain in the absolute magnitude and the seasonality of
+emission quantities and drivers. Eddy covariance (EC) measurements of
+CH4 flux are ideal for constraining ecosystem-scale CH4
+emissions due to quasi-continuous and high-temporal-resolution CH4
+flux measurements, coincident carbon dioxide, water, and energy flux
+measurements, lack of ecosystem disturbance, and increased availability of
+datasets over the last decade. Here, we (1) describe the newly published
+dataset, FLUXNET-CH4 Version 1.0, the first open-source global dataset of
+CH4 EC measurements (available at
+https://fluxnet.org/data/fluxnet-ch4-community-product/, last access: 7 April 2021). FLUXNET-CH4
+includes half-hourly and daily gap-filled and non-gap-filled aggregated
+CH4 fluxes and meteorological data from 79 sites globally: 42
+freshwater wetlands, 6 brackish and saline wetlands, 7 formerly drained
+ecosystems, 7 rice paddy sites, 2 lakes, and 15 uplands. Then, we (2) evaluate FLUXNET-CH4 representativeness for freshwater wetland coverage
+globally because the majority of sites in FLUXNET-CH4 Version 1.0 are
+freshwater wetlands which are a substantial source of total atmospheric
+CH4 emissions; and (3) we provide the first global estimates of the
+seasonal variability and seasonality predictors of freshwater wetland
+CH4 fluxes. Our representativeness analysis suggests that the
+freshwater wetland sites in the dataset cover global wetland bioclimatic
+attributes (encompassing energy, moisture, and vegetation-related
+parameters) in arctic, boreal, and temperate regions but only sparsely
+cover humid tropical regions. Seasonality metrics of wetland CH4
+emissions vary considerably across latitudinal bands. In freshwater wetlands
+(except those between 20∘ S to 20∘ N) the spring onset
+of elevated CH4 emissions starts 3 d earlier, and the CH4
+emission season lasts 4 d longer, for each degree Celsius increase in mean
+annual air temperature. On average, the spring onset of increasing CH4
+emissions lags behind soil warming by 1 month, with very few sites experiencing
+increased CH4 emissions prior to the onset of soil warming. In
+contrast, roughly half of these sites experience the spring onset of rising
+CH4 emissions prior to the spring increase in gross primary
+productivity (GPP). The timing of peak summer CH4 emissions does not
+correlate with the timing for either peak summer temperature or peak GPP.
+Our results provide seasonality parameters for CH4 modeling and
+highlight seasonality metrics that cannot be predicted by temperature or GPP
+(i.e., seasonality of CH4 peak). FLUXNET-CH4 is a powerful new resource
+for diagnosing and understanding the role of terrestrial ecosystems and
+climate drivers in the global CH4 cycle, and future additions of sites
+in tropical ecosystems and site years of data collection will provide added
+value to this database. All seasonality parameters are available at
+https://doi.org/10.5281/zenodo.4672601 (Delwiche et al., 2021).
+Additionally, raw FLUXNET-CH4 data used to extract seasonality parameters
+can be downloaded from https://fluxnet.org/data/fluxnet-ch4-community-product/ (last access: 7 April 2021), and a complete
+list of the 79 individual site data DOIs is provided in Table 2 of this paper.
+                    
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss3art1
+UR  - http://dx.doi.org/10.15447/sfews.2021v19iss3art1
+TI  - Food for Thought: Connecting Zooplankton Science to Management in the San Francisco Estuary
+T2  - San Francisco Estuary and Watershed Science
+AU  - 
+AU  - Hartman, Rosemary
+AU  - Bashevkin, Samuel
+AU  - 
+AU  - Barros, Arthur
+AU  - 
+AU  - Burdi, Christina
+AU  - 
+AU  - Patel, Cheryl
+AU  - 
+AU  - Sommer, Ted
+AU  - 
+PY  - 2021
+DA  - 2021/09/24
+PB  - California Digital Library (CDL)
+IS  - 3
+VL  - 19
+SN  - 1546-2366
+AB  - [Abstracts are not associated with Essays. - the SFEWS Editors]
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.agrformet.2021.108528
+UR  - http://dx.doi.org/10.1016/j.agrformet.2021.108528
+TI  - Gap-filling eddy covariance methane fluxes: Comparison of machine learning model predictions and uncertainties at FLUXNET-CH4 wetlands
+T2  - Agricultural and Forest Meteorology
+AU  - Irvin, Jeremy
+AU  - Zhou, Sharon
+AU  - McNicol, Gavin
+AU  - Lu, Fred
+AU  - Liu, Vincent
+AU  - Fluet-Chouinard, Etienne
+AU  - Ouyang, Zutao
+AU  - Knox, Sara Helen
+AU  - Lucas-Moffat, Antje
+AU  - Trotta, Carlo
+AU  - Papale, Dario
+AU  - Vitale, Domenico
+AU  - Mammarella, Ivan
+AU  - Alekseychik, Pavel
+AU  - Aurela, Mika
+AU  - Avati, Anand
+AU  - Baldocchi, Dennis
+AU  - Bansal, Sheel
+AU  - Bohrer, Gil
+AU  - Campbell, David I
+AU  - Chen, Jiquan
+AU  - Chu, Housen
+AU  - Dalmagro, Higo J
+AU  - Delwiche, Kyle B
+AU  - Desai, Ankur R
+AU  - Euskirchen, Eugenie
+AU  - Feron, Sarah
+AU  - Goeckede, Mathias
+AU  - Heimann, Martin
+AU  - Helbig, Manuel
+AU  - Helfter, Carole
+AU  - Hemes, Kyle S
+AU  - Hirano, Takashi
+AU  - Iwata, Hiroki
+AU  - Jurasinski, Gerald
+AU  - Kalhori, Aram
+AU  - Kondrich, Andrew
+AU  - Lai, Derrick YF
+AU  - Lohila, Annalea
+AU  - Malhotra, Avni
+AU  - Merbold, Lutz
+AU  - Mitra, Bhaskar
+AU  - Ng, Andrew
+AU  - Nilsson, Mats B
+AU  - Noormets, Asko
+AU  - Peichl, Matthias
+AU  - Rey-Sanchez, A. Camilo
+AU  - Richardson, Andrew D
+AU  - Runkle, Benjamin RK
+AU  - Schäfer, Karina VR
+AU  - Sonnentag, Oliver
+AU  - Stuart-Haëntjens, Ellen
+AU  - Sturtevant, Cove
+AU  - Ueyama, Masahito
+AU  - Valach, Alex C
+AU  - Vargas, Rodrigo
+AU  - Vourlitis, George L
+AU  - Ward, Eric J
+AU  - Wong, Guan Xhuan
+AU  - Zona, Donatella
+AU  - Alberto, Ma. Carmelita R
+AU  - Billesbach, David P
+AU  - Celis, Gerardo
+AU  - Dolman, Han
+AU  - Friborg, Thomas
+AU  - Fuchs, Kathrin
+AU  - Gogo, Sébastien
+AU  - Gondwe, Mangaliso J
+AU  - Goodrich, Jordan P
+AU  - Gottschalk, Pia
+AU  - Hörtnagl, Lukas
+AU  - Jacotot, Adrien
+AU  - Koebsch, Franziska
+AU  - Kasak, Kuno
+AU  - Maier, Regine
+AU  - Morin, Timothy H
+AU  - Nemitz, Eiko
+AU  - Oechel, Walter C
+AU  - Oikawa, Patricia Y
+AU  - Ono, Keisuke
+AU  - Sachs, Torsten
+AU  - Sakabe, Ayaka
+AU  - Schuur, Edward A
+AU  - Shortt, Robert
+AU  - Sullivan, Ryan C
+AU  - Szutu, Daphne J
+AU  - Tuittila, Eeva-Stiina
+AU  - Varlagin, Andrej
+AU  - Verfaillie, Joeseph G
+AU  - Wille, Christian
+AU  - Windham-Myers, Lisamarie
+AU  - Poulter, Benjamin
+AU  - Jackson, Robert B
+PY  - 2021
+DA  - 2021/10
+PB  - Elsevier BV
+SP  - 108528
+VL  - 308-309
+SN  - 0168-1923
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1139/cjfas-2021-0005
+UR  - http://dx.doi.org/10.1139/cjfas-2021-0005
+TI  - Genome-wide analysis reveals regional patterns of drift, structure, and gene flow in longfin smelt (<i>Spirinchus thaleichthys</i>) in the northeastern Pacific
+T2  - Canadian Journal of Fisheries and Aquatic Sciences
+AU  - Sağlam, İsmail K.
+AU  - Hobbs, James
+AU  - Baxter, Randall
+AU  - Lewis, Levi S.
+AU  - Benjamin, Alyssa
+AU  - Finger, Amanda J.
+PY  - 2021
+DA  - 2021/12
+PB  - Canadian Science Publishing
+SP  - 1793-1804
+IS  - 12
+VL  - 78
+SN  - 0706-652X
+SN  - 1205-7533
+AB  - The southernmost stock of longfin smelt (Spirinchus thaleichthys) is approaching extirpation in the San Francisco Estuary (SFE); however, patterns of genetic structure, diversity and gene flow which are vital for management are poorly understood in this species. Here, we use genome-wide data to evaluate population structure of longfin smelt across a broad latitudinal scale across estuaries ranging from the SFE to Yakutat Bay and Lake Washington, and fine scale within the Fraser River and the SFE. Results indicate high genetic structure between major estuaries, fine-scale structure within the Fraser River, and low levels of structure within the SFE. Genetic structure was more pronounced between northern estuaries whereas southern estuaries showed shared ancestry and ongoing gene flow, most notably unidirectional northward migration out of the SFE. Furthermore, we detected signatures of local adaptation within the Fraser River and the Skeena River estuaries. Taken together, our results identify broad patterns of genetic diversity in longfin smelt shaped by co-ancestry, unidirectional migration and local adaptation. Results also suggest that the SFE population is genetically distinct from northernmost populations and an important source for maintaining nearby populations.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10452-021-09863-4
+UR  - http://dx.doi.org/10.1007/s10452-021-09863-4
+TI  - Growth and reproductive rates of the dominant copepod Pseudodiaptomus forbesi in response to environmental factors and habitat type in the northern San Francisco Estuary
+T2  - Aquatic Ecology
+AU  - Gearty, Austin J.
+AU  - Ignoffo, Toni R.
+AU  - Slaughter, Anne M.
+AU  - Kimmerer, Wim J.
+PY  - 2021
+DA  - 2021/05/14
+PB  - Springer Science and Business Media LLC
+SP  - 825-848
+IS  - 3
+VL  - 55
+SN  - 1386-2588
+SN  - 1573-5125
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/gcb.15802
+UR  - http://dx.doi.org/10.1111/gcb.15802
+TI  - Hot moments drive extreme nitrous oxide and methane emissions from agricultural peatlands
+T2  - Global Change Biology
+AU  - Anthony, Tyler L.
+AU  - Silver, Whendee L.
+PY  - 2021
+DA  - 2021/07/28
+PB  - Wiley
+SP  - 5141-5153
+IS  - 20
+VL  - 27
+SN  - 1354-1013
+SN  - 1365-2486
+AB  - AbstractAgricultural peatlands are estimated to emit approximately one third of global greenhouse gas (GHG) emissions from croplands, but the temporal dynamics and controls of these emissions are poorly understood, particularly for nitrous oxide (N2O). We used cavity ring‐down spectroscopy and automated chambers in a drained agricultural peatland to measure over 70,000 individual N2O, methane (CH4), and carbon dioxide (CO2) fluxes over 3 years. Our results showed that N2O fluxes were high, contributing 26% (annual range: 16%–35%) of annual CO2e emissions. Total N2O fluxes averaged 26 ± 0.5 kg N2O‐N ha−1y−1and exhibited significant inter‐ and intra‐annual variability with a maximum annual flux of 42 ± 1.8 kg N2O‐N ha−1y−1. Hot moments of N2O and CH4emissions represented 1.1 ± 0.2 and 1.3 ± 0.2% of measurements, respectively, but contributed to 45 ± 1% of mean annual N2O fluxes and to 140 ± 9% of mean annual CH4 fluxes. Soil moisture, soil temperature, and bulk soil oxygen (O2) concentrations were strongly correlated with soil N2O and CH4emissions; soil nitrate () concentrations were also significantly correlated with soil N2O emissions. These results suggest that IPCC benchmarks underestimate N2O emissions from these high emitting agricultural peatlands by up to 70%. Scaling to regional agricultural peatlands with similar management suggests these ecosystems could emit up to 1.86 Tg CO2e y−1(range: 1.58–2.21 Tg CO2e y−1). Data suggest that these agricultural peatlands are large sources of GHGs, and that short‐term hot moments of N2O and CH4are a significant fraction of total greenhouse budgets.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/gcb.15661
+UR  - http://dx.doi.org/10.1111/gcb.15661
+TI  - Identifying dominant environmental predictors of freshwater wetland methane fluxes across diurnal to seasonal time scales
+T2  - Global Change Biology
+AU  - Knox, Sara H.
+AU  - Bansal, Sheel
+AU  - McNicol, Gavin
+AU  - Schafer, Karina
+AU  - Sturtevant, Cove
+AU  - Ueyama, Masahito
+AU  - Valach, Alex C.
+AU  - Baldocchi, Dennis
+AU  - Delwiche, Kyle
+AU  - Desai, Ankur R.
+AU  - Euskirchen, Eugenie
+AU  - Liu, Jinxun
+AU  - Lohila, Annalea
+AU  - Malhotra, Avni
+AU  - Melling, Lulie
+AU  - Riley, William
+AU  - Runkle, Benjamin R. K.
+AU  - Turner, Jessica
+AU  - Vargas, Rodrigo
+AU  - Zhu, Qing
+AU  - Alto, Tuula
+AU  - Fluet‐Chouinard, Etienne
+AU  - Goeckede, Mathias
+AU  - Melton, Joe R.
+AU  - Sonnentag, Oliver
+AU  - Vesala, Timo
+AU  - Ward, Eric
+AU  - Zhang, Zhen
+AU  - Feron, Sarah
+AU  - Ouyang, Zutao
+AU  - Alekseychik, Pavel
+AU  - Aurela, Mika
+AU  - Bohrer, Gil
+AU  - Campbell, David I.
+AU  - Chen, Jiquan
+AU  - Chu, Housen
+AU  - Dalmagro, Higo J.
+AU  - Goodrich, Jordan P.
+AU  - Gottschalk, Pia
+AU  - Hirano, Takashi
+AU  - Iwata, Hiroki
+AU  - Jurasinski, Gerald
+AU  - Kang, Minseok
+AU  - Koebsch, Franziska
+AU  - Mammarella, Ivan
+AU  - Nilsson, Mats B.
+AU  - Ono, Keisuke
+AU  - Peichl, Matthias
+AU  - Peltola, Olli
+AU  - Ryu, Youngryel
+AU  - Sachs, Torsten
+AU  - Sakabe, Ayaka
+AU  - Sparks, Jed P.
+AU  - Tuittila, Eeva‐Stiina
+AU  - Vourlitis, George L.
+AU  - Wong, Guan X.
+AU  - Windham‐Myers, Lisamarie
+AU  - Poulter, Benjamin
+AU  - Jackson, Robert B.
+PY  - 2021
+DA  - 2021/05/29
+PB  - Wiley
+SP  - 3582-3604
+IS  - 15
+VL  - 27
+SN  - 1354-1013
+SN  - 1365-2486
+AB  - AbstractWhile wetlands are the largest natural source of methane (CH4) to the atmosphere, they represent a large source of uncertainty in the global CH4 budget due to the complex biogeochemical controls on CH4 dynamics. Here we present, to our knowledge, the first multi‐site synthesis of how predictors of CH4 fluxes (FCH4) in freshwater wetlands vary across wetland types at diel, multiday (synoptic), and seasonal time scales. We used several statistical approaches (correlation analysis, generalized additive modeling, mutual information, and random forests) in a wavelet‐based multi‐resolution framework to assess the importance of environmental predictors, nonlinearities and lags on FCH4 across 23 eddy covariance sites. Seasonally, soil and air temperature were dominant predictors of FCH4 at sites with smaller seasonal variation in water table depth (WTD). In contrast, WTD was the dominant predictor for wetlands with smaller variations in temperature (e.g., seasonal tropical/subtropical wetlands). Changes in seasonal FCH4 lagged fluctuations in WTD by ~17 ± 11 days, and lagged air and soil temperature by median values of 8 ± 16 and 5 ± 15 days, respectively. Temperature and WTD were also dominant predictors at the multiday scale. Atmospheric pressure (PA) was another important multiday scale predictor for peat‐dominated sites, with drops in PA coinciding with synchronous releases of CH4. At the diel scale, synchronous relationships with latent heat flux and vapor pressure deficit suggest that physical processes controlling evaporation and boundary layer mixing exert similar controls on CH4 volatilization, and suggest the influence of pressurized ventilation in aerenchymatous vegetation. In addition, 1‐ to 4‐h lagged relationships with ecosystem photosynthesis indicate recent carbon substrates, such as root exudates, may also control FCH4. By addressing issues of scale, asynchrony, and nonlinearity, this work improves understanding of the predictors and timing of wetland FCH4 that can inform future studies and models, and help constrain wetland CH4 emissions.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/1752-1688.12921
+UR  - http://dx.doi.org/10.1111/1752-1688.12921
+TI  - Impacts of Sea‐Level Rise on Hypoxia and Phytoplankton Production in Chesapeake Bay: Model Prediction and Assessment
+T2  - JAWRA Journal of the American Water Resources Association
+AU  - Cai, Xun
+AU  - Shen, Jian
+AU  - Zhang, Yinglong J.
+AU  - Qin, Qubin
+AU  - Wang, Zhengui
+AU  - Wang, Harry
+PY  - 2021
+DA  - 2021/05/27
+PB  - Wiley
+SP  - 922-939
+IS  - 6
+VL  - 58
+SN  - 1093-474X
+SN  - 1752-1688
+AB  - AbstractIn this study, the influence of sea‐level rise (SLR) on seasonal hypoxia and phytoplankton production in Chesapeake Bay is investigated using a 3D unstructured grid model. Three SLR scenarios (0.17, 0.5, and 1.0 m) were conducted from 1991 to 1995. Results show that the summer hypoxic volume (HV) increases about 2%, 8%, and 16%, respectively, for these three scenarios, compared with Base Scenario. The contributions of physical and biological processes on the increase in the HV were analyzed. With the projected SLR, enhanced gravitational circulation transports more oxygen‐rich water in the bottom layer from the mouth. However, the pycnocline moves upwards along with increasing water depth, which largely prolongs the time for dissolved oxygen (DO) to be transported to the bottom. The altered physical processes contribute greatly to a larger HV bay‐wide. Besides, SLR increases the whole Bay phytoplankton production, with a larger increase in shallow areas (e.g., 53% in areas with depth &lt;1 m under SLR of 0.5 m). Enhanced light availability is suggested to be the major driver of blooming phytoplankton under SLR in shallow areas. While increased DO production over the euphotic zone is mostly released to the atmosphere and transported downstream, the increase in settled organic matter greatly promotes DO consumption in the water column. The increased respiration is another major cause of the HV increase besides the physical contributions.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1029/2021jd034848
+UR  - http://dx.doi.org/10.1029/2021JD034848
+TI  - Improving Seasonal Prediction of California Winter Precipitation Using Canonical Correlation Analysis
+T2  - Journal of Geophysical Research: Atmospheres
+AU  - Wang, Gaoyun
+AU  - Zhuang, Yizhou
+AU  - Fu, Rong
+AU  - Zhao, Siyu
+AU  - Wang, Hongqing
+PY  - 2021
+DA  - 2021/09/03
+PB  - American Geophysical Union (AGU)
+IS  - 17
+VL  - 126
+SN  - 2169-897X
+SN  - 2169-8996
+AB  - AbstractWe have developed a canonical correlation analysis (CCA) model for improving seasonal winter rainfall prediction. It uses the anomalies of sea surface temperature (SST), vertically integrated vapor transport (IVT), and geopotential height at 250 hPa (Z250) in October and November, respectively, as the predictors for winter rainfall prediction. These predictors represent the processes that influence winter rainfall over California as documented in the literature, but their potential for improving predictability was previously unclear. This statistical model shows prediction skills higher than those of the baseline autoregressive model, the CCA‐based prediction model using only the SST anomalies, and the dynamic predictions by the North American Multi‐Model Ensemble (NMME). Averaged over California, the Pearson correlation (R) is 0.64, root mean squared error (RMSE) is 0.65, and Heidke skill score (HSS) is 0.42 when the CCA‐based model is initialized by the three predictor fields (SST, IVT, and Z250) in November. These skills are higher than those of the NMME predictions initialized in November (R, RMSE, and HSS are 0.30, 0.83, and 0.15, respectively) and those of the autoregressive baseline (R, RMSE, and HSS are 0.10, 0.79, and 0.08, respectively). Hindcasts of winter rainfall initialized by October observations show R, RMSE, and HSS of 0.53, 0.81, and 0.39, respectively, also higher than those of the NMME seasonal prediction initialized in October (0.32, 0.79, and 0.22 for R, RMSE, and HSS, respectively) and the autoregressive model (0.30, 0.75, and 0.16 for R, RMSE, and HSS, respectively).
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10584-021-03057-5
+UR  - http://dx.doi.org/10.1007/s10584-021-03057-5
+TI  - Indicators of climate change impacts on the water cycle and water management
+T2  - Climatic Change
+AU  - Peters-Lidard, Christa D.
+AU  - Rose, Kevin C.
+AU  - Kiang, Julie E.
+AU  - Strobel, Michael L.
+AU  - Anderson, Michael L.
+AU  - Byrd, Aaron R.
+AU  - Kolian, Michael J.
+AU  - Brekke, Levi D.
+AU  - Arndt, Derek S.
+PY  - 2021
+DA  - 2021/03
+PB  - Springer Science and Business Media LLC
+IS  - 1-2
+VL  - 165
+SN  - 0165-0009
+SN  - 1573-1480
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1029/2021jd034813
+UR  - http://dx.doi.org/10.1029/2021JD034813
+TI  - Influence of Dust on Precipitation During Landfalling Atmospheric Rivers in an Idealized Framework
+T2  - Journal of Geophysical Research: Atmospheres
+AU  - Mascioli, N. R.
+AU  - Evan, A. T.
+AU  - Ralph, F. M.
+PY  - 2021
+DA  - 2021/11/16
+PB  - American Geophysical Union (AGU)
+IS  - 22
+VL  - 126
+SN  - 2169-897X
+SN  - 2169-8996
+AB  - AbstractAtmospheric rivers (ARs) can provide as much as 50% of the total annual rainfall to the United States West Coast via orographic precipitation. Dust is thought to enhance orographic precipitation via the “seeder‐feeder” mechanism, in which ice particles from a high cloud fall through a lower orographic cloud, seeding precipitation in the low cloud. Using the Weather Research and Forecasting model, we vary dust concentrations in simulations of two‐dimensional flow over a mountain. This idealized framework allows us to test the sensitivity of the precipitation‐dust response to a variety of different dust concentrations and initial conditions. The model is run using an ensemble of 60 radiosondes collected from Bodega Bay, CA in 2017–2018, clustered based on their vertical moisture profile into “deep moist,” “shallow moist,” and “subsaturated” clusters. The principle impact on precipitation is to increase the ratio of precipitation falling as snow. This produces a “spillover” effect, decreasing precipitation upwind of the peak and increasing precipitation downwind of the peak. The largest impacts on the snow/rain ratio occur at the end of the event, during cold front passage. The ensemble mean does not produce a significant seeder‐feeder response, however, in individual cases with favorable initial conditions there is a significant increase in precipitation throughout the domain due to dust effects on the seeder‐feeder mechanism. These findings afford an opportunity to build a more comprehensive understanding for the conditions under which dust aerosol can have a significant impact on precipitation during ARs, with implications for future developments in forecasting.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/gbi.12444
+UR  - http://dx.doi.org/10.1111/gbi.12444
+TI  - Influences of pH and substrate supply on the ratio of iron to sulfate reduction
+T2  - Geobiology
+AU  - Paper, Janet M.
+AU  - Flynn, Theodore M.
+AU  - Boyanov, Maxim I.
+AU  - Kemner, Kenneth M.
+AU  - Haller, Ben R.
+AU  - Crank, Kathleen
+AU  - Lower, AnneMarie
+AU  - Jin, Qusheng
+AU  - Kirk, Matthew F.
+PY  - 2021
+DA  - 2021/05/02
+PB  - Wiley
+SP  - 405-420
+IS  - 4
+VL  - 19
+SN  - 1472-4677
+SN  - 1472-4669
+AB  - AbstractIron reduction and sulfate reduction often occur simultaneously in anoxic systems, and where that is the case, the molar ratio between the reactions (i.e., Fe/SO42− reduced) influences their impact on water quality and carbon storage. Previous research has shown that pH and the supply of electron donors and acceptors affect that ratio, but it is unclear how their influences compare and affect one another. This study examines impacts of pH and the supply of acetate, sulfate, and goethite on the ratio of iron to sulfate reduction in semi‐continuous sediment bioreactors. We examined which parameter had the greatest impact on that ratio and whether the parameter influences depended on the state of each other. Results show that pH had a greater influence than acetate supply on the ratio of iron to sulfate reduction, and that the impact of acetate supply on the ratio depended on pH. In acidic reactors (pH 6.0 media), the ratio of iron to sulfate reduction decreased from 3:1 to 2:1 as acetate supply increased (0–1 mM). In alkaline reactors (pH 7.5 media), iron and sulfate were reduced in equal proportions, regardless of acetate supply. Secondly, a comparison of experiments with and without sulfate shows that the extent of iron reduction was greater if sulfate reduction was occurring and that the effect was larger in alkaline reactors than acidic reactors. Thus, the influence of sulfate supply on iron reduction extent also depended on pH and suggests that iron reduction grows more dependent on sulfate reduction as pH increases. Our results compare well to trends in groundwater geochemistry and provide further evidence that pH is a major control on iron and sulfate reduction in systems with crystalline (oxyhydr)oxides. pH not only affects the ratio between the reactions but also the influences of other parameters on that ratio.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.jenvman.2021.113170
+UR  - http://dx.doi.org/10.1016/j.jenvman.2021.113170
+TI  - Informing wetland management with waterfowl movement and sanctuary use responses to human-induced disturbance
+T2  - Journal of Environmental Management
+AU  - McDuie, Fiona
+AU  - Lorenz, Austen A.
+AU  - Klinger, Robert C.
+AU  - Overton, Cory T.
+AU  - Feldheim, Cliff L.
+AU  - Ackerman, Joshua T.
+AU  - Casazza, Michael L.
+PY  - 2021
+DA  - 2021/11
+PB  - Elsevier BV
+SP  - 113170
+VL  - 297
+SN  - 0301-4797
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1029/2020wr029279
+UR  - http://dx.doi.org/10.1029/2020WR029279
+TI  - Instantaneous River‐Wide Water Surface Velocity Field Measurements at Centimeter Scales Using Infrared Quantitative Image Velocimetry
+T2  - Water Resources Research
+AU  - Schweitzer, Seth A.
+AU  - Cowen, Edwin A.
+PY  - 2021
+DA  - 2021/08
+PB  - American Geophysical Union (AGU)
+IS  - 8
+VL  - 57
+SN  - 0043-1397
+SN  - 1944-7973
+AB  - AbstractThis paper describes a novel velocimetry method we call infrared quantitative image velocimetry (IR‐QIV), that uses infrared (IR) images of thermal patterns advecting on water surfaces to calculate time‐resolved, instantaneous, two‐dimensional surface velocity fields. The method works day or night, and under most weather conditions, by tracking subtle thermal patterns on the water surface itself, which are present under most environmental conditions. No particle “seeding”, external light sources, or contact with the water are required. A form of remote sensing, IR‐QIV has significant advantages over visible‐light surface velocimetry methods such as particle image velocimetry (PIV). IR‐QIV allows calculation of instantaneous velocity at high spatial (centimeter scale) and temporal (1 Hz) resolutions over large areas (thousands of square meters), allowing metrics of turbulence to be calculated. Results from field measurements are presented, showing excellent agreement with nearby acoustic velocity measurements. We discuss best practices for IR image acquisition and processing based on our experience developing and working with IR‐QIV. Additionally, we discuss uncertainty analysis in velocimetry techniques using images collected at oblique viewing angles and pattern tracking in images containing gradients of intensity rather than discrete particles, as well as the deleterious effects of, and post‐processing ways to remove, camera fixed pattern noise, considerations relevant to all types of image‐based velocimetry. This approach can improve measurements from both fixed and mobile platforms such as unoccupied aerial systems (UASs).
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.soilbio.2021.108235
+UR  - http://dx.doi.org/10.1016/j.soilbio.2021.108235
+TI  - Interactive effects of temperature and redox on soil carbon and iron cycling
+T2  - Soil Biology and Biochemistry
+AU  - Chari, Nikhil R.
+AU  - Lin, Yang
+AU  - Lin, Yuan S.
+AU  - Silver, Whendee L.
+PY  - 2021
+DA  - 2021/06
+PB  - Elsevier BV
+SP  - 108235
+VL  - 157
+SN  - 0038-0717
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/ece3.7245
+UR  - http://dx.doi.org/10.1002/ece3.7245
+TI  - Interrupted incubation: How dabbling ducks respond when flushed from the nest
+T2  - Ecology and Evolution
+AU  - Croston, Rebecca
+AU  - Hartman, C. Alex
+AU  - Herzog, Mark P.
+AU  - Peterson, Sarah H.
+AU  - Kohl, Jeffrey D.
+AU  - Overton, Cory T.
+AU  - Feldheim, Cliff L.
+AU  - Casazza, Michael L.
+AU  - Ackerman, Joshua T.
+PY  - 2021
+DA  - 2021/02/23
+PB  - Wiley
+SP  - 2862-2872
+IS  - 6
+VL  - 11
+SN  - 2045-7758
+SN  - 2045-7758
+AB  - AbstractNesting birds must provide a thermal environment sufficient for egg development while also meeting self‐maintenance needs. Many birds, particularly those with uniparental incubation, achieve this balance through periodic incubation recesses, during which foraging and other self‐maintenance activities can occur. However, incubating birds may experience disturbances such as predator or human activity which interrupt natural incubation patterns by compelling them to leave the nest. We characterized incubating mallard Anas platyrhynchos and gadwall Mareca strepera hens’ responses when flushed by predators and investigators in Suisun Marsh, California, USA. Diurnal incubation recesses initiated by investigators approaching nests were 63% longer than natural diurnal incubation recesses initiated by the hen (geometric mean: 226.77 min versus 142.04 min). Nocturnal incubation recesses, many of which were likely the result of predators flushing hens, were of similar duration regardless of whether the nest was partially depredated during the event (115.33 [101.01;131.68] minutes) or not (119.62 [111.96;127.82] minutes), yet were 16% shorter than natural diurnal incubation recesses. Hens moved further from the nest during natural diurnal recesses or investigator‐initiated recesses than during nocturnal recesses, and the proportion of hen locations recorded in wetland versus upland habitat during recesses varied with recess type (model‐predicted means: natural diurnal recess 0.77; investigator‐initiated recess 0.82; nocturnal recess 0.31). Hens were more likely to take a natural recess following an investigator‐initiated recess earlier that same day than following a natural recess earlier that same day, and natural recesses that followed an investigator‐initiated recess were longer than natural recesses that followed an earlier natural recess, suggesting that hens may not fulfill all of their physiological needs during investigator‐initiated recesses. We found no evidence that the duration of investigator‐initiated recesses was influenced by repeated visits to the nest, whether by predators or by investigators, and trapping and handling the hen did not affect investigator‐initiated recess duration unless the hen was also fitted with a backpack‐harness style GPS–GSM transmitter at the time of capture. Hens that were captured and fitted with GPS–GSM transmitters took recesses that were 26% longer than recesses during which a hen was captured but a GPS–GSM transmitter was not attached. Incubation interruptions had measurable but limited and specific effects on hen behavior.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/tafs.10271
+UR  - http://dx.doi.org/10.1002/tafs.10271
+TI  - Juvenile Chinook Salmon Survival, Travel Time, and Floodplain Use Relative to Riverine Channels in the Sacramento–San Joaquin River Delta
+T2  - Transactions of the American Fisheries Society
+AU  - Pope, Adam C.
+AU  - Perry, Russell W.
+AU  - Harvey, Brett N.
+AU  - Hance, Dalton J.
+AU  - Hansel, Hal C.
+PY  - 2021
+DA  - 2021/01
+PB  - Oxford University Press (OUP)
+SP  - 38-55
+IS  - 1
+VL  - 150
+SN  - 0002-8487
+SN  - 1548-8659
+AB  - AbstractFloodplains provide multiple benefits to both resident and migratory fish species, including juvenile Chinook Salmon Oncorhynchus tshawytscha, but direct comparisons of survival during migration through a floodplain versus riverine routes are scarce. The Yolo Bypass is a broad floodplain of the Sacramento River that floods in about 30% of years in response to large, uncontrolled runoff events. We analyzed data from an acoustic telemetry study conducted in winter 2016 to estimate the proportion of tagged juvenile Chinook Salmon entrained from the Sacramento River into the Yolo Bypass and their spatial distribution within the Yolo Bypass. In addition, we compared survival and travel time of Chinook Salmon that migrated through the Yolo Bypass to those migrating via alternative non‐floodplain migration routes at varying stages of a flood event that activated the Yolo Bypass. We found that entrainment into the Yolo Bypass ranged from 1% to 80% among different release groups, with the highest entrainment coinciding with the peak of the March 2016 flooding event. Survival for Chinook Salmon migrating through the Yolo Bypass was similar to survival of those migrating through main‐stem migration routes. At the relatively high flows necessary to enable flooding of the Yolo Bypass, survival estimates varied little among release groups and migration routes. Furthermore, mean daily survival rates for Chinook Salmon migrating through the flooded Yolo Bypass were comparable to those of fish migrating through the other non‐floodplain routes. Median travel times remained relatively constant during various stages of flooding in the Yolo Bypass. This research should help managers to better understand the potential costs and benefits to floodplain restoration and routing of migrating Chinook Salmon into off‐channel habitat.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10641-021-01119-2
+UR  - http://dx.doi.org/10.1007/s10641-021-01119-2
+TI  - Juvenile Chinook salmon use of sandbar willows in a large-scale, simulated riparian floodplain: microhabitat and energetics
+T2  - Environmental Biology of Fishes
+AU  - Fangue, Nann A.
+AU  - Cocherell, Dennis E.
+AU  - Mauduit, Florian
+AU  - Poletto, Jamilynn B.
+AU  - Carr, Kara
+AU  - O’Rear, Teejay A.
+AU  - Soyster, Gregory
+AU  - Lorenzato, Stefan
+AU  - Carlon, John
+AU  - Kavvas, M. Levent
+AU  - Cech, Joseph J.
+PY  - 2021
+DA  - 2021/07
+PB  - Springer Science and Business Media LLC
+SP  - 867-879
+IS  - 7
+VL  - 104
+SN  - 0378-1909
+SN  - 1573-5133
+AB  - AbstractOutmigrating, juvenile Chinook salmonOncorhynchus tshawytscha, with access to floodplains (e.g., Yolo Bypass California, USA), grow faster than those restricted to the main channel of the Sacramento River. How these young salmon might use rooted, vegetative structure (e.g., to decrease energy expenditures) while holding positions in flowing water on floodplains and flooded riparian zones is unknown. We conducted daytime experiments in a large (24.4 m long) flume containing a planted area (9.76 m × 1.22 m) of sandbar willows,Salix interior. Flume water was maintained at 1.5 m depth and 16 °C over a 15–90 cm s−1test velocity range. Fish were videoed using 19 cameras to determine positional behavior, including their depth, use of vegetation, and tail-beat (body-undulation) frequencies (TBFs). These TBFs were replicated with similarly-sized salmon in a calibrated, Brett-type swimming respirometer, where oxygen consumption rates were measured. Using these laboratory measurements, we estimated their swimming velocities and energetic costs associated with occupying sandbar willow habitats in the flume. As flume velocities increased and the leafy canopies of the willows were bent over from the flow, salmon occupied deeper water, among the thick stems of the willows, and maintained their positions. Even at the highest (90 cm s−1) nominal flume velocities, their estimated swimming velocities were only 35.6 cm s−1, within the bottom 15 cm of the water column. This resulted in unchanged energetic costs, compared with those estimated at lower nominal water velocities. The use of vegetated (e.g., with sandbar willow common to the riparian zone) floodplains, rather than non-vegetated ones, can potentially provide energy-saving, growth-promoting daytime habitat for migrating juvenile salmonids during river-flow periods that include floodplain inundation.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1080/09593330.2021.1916092
+UR  - http://dx.doi.org/10.1080/09593330.2021.1916092
+TI  - Lactate as an effective electron donor in the sulfate reduction: impacts on the microbial diversity
+T2  - Environmental Technology
+AU  - Santos, Angélica Marcia dos
+AU  - Costa, Josiel Martins
+AU  - Braga, Juliana Kawanishi
+AU  - Flynn, Theodore M.
+AU  - Brucha, Gunther
+AU  - Sancinetti, Giselle Patricia
+AU  - Rodriguez, Renata Piacentini
+PY  - 2021
+DA  - 2021/05/06
+PB  - Informa UK Limited
+SP  - 3149-3160
+IS  - 20
+VL  - 43
+SN  - 0959-3330
+SN  - 1479-487X
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss1art2
+UR  - http://dx.doi.org/10.15447/sfews.2021v19iss1art2
+TI  - Leveraging Delta Smelt Monitoring for Detecting Juvenile Chinook Salmon in the San Francisco Estuary
+T2  - San Francisco Estuary and Watershed Science
+AU  - Mahardja, Brian
+AU  - Mitchell, Lara
+AU  - Beakes, Michael
+AU  - Johnston, Catherine
+AU  - Graham, Cory
+AU  - Goertler, Pascale
+AU  - Barnard, Denise
+AU  - Castillo, Gonzalo
+AU  - Matthias, Bryan
+PY  - 2021
+DA  - 2021/03/16
+PB  - California Digital Library (CDL)
+IS  - 1
+VL  - 19
+SN  - 1546-2366
+SN  - 1546-2366
+AB  - Monitoring is an essential component in ecosystem management, and leveraging existing data sources for multiple species of interest can be one effective way to enhance information for management agencies. Here, we analyzed juvenile Chinook Salmon (Oncorhynchus tshawytscha) bycatch data that has been collected by the recently established Enhanced Delta Smelt Monitoring program (EDSM), a survey designed to estimate the abundance and distribution of the San Francisco Estuary’s (estuary) endangered Delta Smelt (Hypomesus transpacificus). Two key aspects of the EDSM program distinguish it from other fish surveys in the estuary: a stratified random sampling design and the spatial scale of its sampling effort. We integrated the EDSM data set with other existing surveys in the estuary, and used an occupancy model to assess differences in the probability of detecting Delta Smelt across gear types. We saw no large-scale differences in size selectivity, and while detection probability varied among gear types, cumulative detection probability for EDSM was comparable to other surveys because of the program’s use of replicate tows. Based on our occupancy model and sampling effort in the estuary during spring of 2017 and 2018, we highlighted under-sampled regions that saw improvements in monitoring coverage from EDSM. Our analysis also revealed that each sampling method has its own benefits and constraints. Although the use of random sites with replicates, as conducted by EDSM, can provide more statistically robust abundance estimates relative to traditional methods, the use of fixed stations and simple methods such as beach seining may provide a more cost-effective way to monitor salmon occurrence in certain regions of the estuary. Leveraging the strengths of each survey’s method can enable stronger inferences on salmon abundance and distribution. Careful consideration of these trade-offs is crucial as the management agencies of the estuary continue to adapt and improve their monitoring programs.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1175/jcli-d-20-0824.1
+UR  - http://dx.doi.org/10.1175/JCLI-D-20-0824.1
+TI  - Long-Lead Seasonal Prediction of Streamflow over the Upper Colorado River Basin: The Role of the Pacific Sea Surface Temperature and Beyond
+T2  - Journal of Climate
+AU  - Zhao, Siyu
+AU  - Fu, Rong
+AU  - Zhuang, Yizhou
+AU  - Wang, Gaoyun
+PY  - 2021
+DA  - 2021/06/09
+PB  - American Meteorological Society
+SP  - 1-47
+SN  - 0894-8755
+SN  - 1520-0442
+AB  - AbstractWe have developed two statistical models for extended seasonal predictions of the Upper Colorado River Basin (UCRB) natural streamflow during April–July: a stepwise linear regression (reduced to a simple regression with one predictor) and a neural network model. Monthly, basin-averaged soil moisture, snow water equivalent (SWE), precipitation, and the Pacific sea surface temperature (SST) are selected as potential predictors. Pacific SST Predictors (PSPs) are derived from a dipole pattern over the Pacific (30°S–65°N) that is correlated with the lagging streamflow. For both models, the correlation between the hindcasted and observed streamflow exceeds 0.60 for lead times less than four months using soil moisture, SWE, and precipitation as predictors. This correlation is higher than that of an autoregression model (correlation ~0.50). Since these land-surface and atmospheric variables have no statistically significant correlations with the streamflow, PSPs are then incorporated into the models. The two models have a correlation of ~0.50 using PSPs alone for lead times from six to nine months, and such skills are probably associated with stronger correlation between SST and streamflow in recent decades. The similar prediction skills between the two models suggest a largely linear system between SST and streamflow. Four predictors together can further improve short-lead prediction skills (correlation ~0.80). Therefore, our results confirm the advantage of the Pacific SST information in predicting the UCRB streamflow with a long lead time, and can provide useful climate information for water supply planning and decisions.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.3389/fclim.2021.761444
+UR  - http://dx.doi.org/10.3389/fclim.2021.761444
+TI  - Making a Water Data System Responsive to Information Needs of Decision Makers
+T2  - Frontiers in Climate
+AU  - Cantor, Alida
+AU  - Kiparsky, Michael
+AU  - Hubbard, Susan S.
+AU  - Kennedy, Rónán
+AU  - Pecharroman, Lidia Cano
+AU  - Guivetchi, Kamyar
+AU  - Darling, Gary
+AU  - McCready, Christina
+AU  - Bales, Roger
+PY  - 2021
+DA  - 2021/11/17
+PB  - Frontiers Media SA
+VL  - 3
+SN  - 2624-9553
+AB  - Evidence-based environmental management requires data that are sufficient, accessible, useful and used. A mismatch between data, data systems, and data needs for decision making can result in inefficient and inequitable capital investments, resource allocations, environmental protection, hazard mitigation, and quality of life. In this paper, we examine the relationship between data and decision making in environmental management, with a focus on water management. We focus on the concept of decision-driven data systems—data systems that incorporate an assessment of decision-makers' data needs into their design. The aim of the research was to examine the process of translating data into effective decision making by engaging stakeholders in the development of a water data system. Using California's legislative mandate for state agencies to integrate existing water and other environmental data as a case study, we developed and applied a participatory approach to inform data-system design and identify unmet data needs. Using workshops and focused stakeholder meetings, we developed 20 diverse use cases to assess data sources, availability, characteristics, gaps, and other attributes of data used for representative decisions. Federal and state agencies made up about 90% of the data sources, and could readily adapt to a federated data system, our recommended model for the state. The remaining 10% of more-specialized data, central to important decisions across multiple use cases, would require additional investment or incentives to achieve data consistency, interoperability, and compatibility with a federated system. Based on this assessment, we propose a typology of different types of data limitations and gaps described by stakeholders. We also propose technical, governance, and stakeholder engagement evaluation criteria to guide planning and building environmental data systems. Data-system governance involving both producers and users of data was seen as essential to achieving workable standards, stable funding, convenient data availability, resilience to institutional change, and long-term buy-in by stakeholders. Our work provides a replicable lesson for using decision-maker and stakeholder engagement to shape the design of an environmental data system, and inform a technical design that addresses both user and producer needs.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s12237-020-00880-4
+UR  - http://dx.doi.org/10.1007/s12237-020-00880-4
+TI  - Managed Wetlands Can Benefit Juvenile Chinook Salmon in a Tidal Marsh
+T2  - Estuaries and Coasts
+AU  - Aha, Nicole M.
+AU  - Moyle, Peter B.
+AU  - Fangue, Nann A.
+AU  - Rypel, Andrew L.
+AU  - Durand, John R.
+PY  - 2021
+DA  - 2021/01/22
+PB  - Springer Science and Business Media LLC
+SP  - 1440-1453
+IS  - 5
+VL  - 44
+SN  - 1559-2723
+SN  - 1559-2731
+AB  - AbstractLoss of estuarine and coastal habitats worldwide has reduced nursery habitat and function for diverse fishes, including juvenile Chinook salmon (Oncorhynchus tshawytscha). Underutilized off-channel habitats such as flooded rice fields and managed ponds present opportunities for improving rearing conditions and increasing habitat diversity along migratory corridors. While experiments in rice fields have shown enhanced growth rates of juvenile fishes, managed ponds are less studied. To evaluate the potential of these ponds as a nursery habitat, juvenile Chinook salmon (~ 2.8 g, 63 mm FL) were reared in cages in four contrasting locations within Suisun Marsh, a large wetland in the San Francisco Estuary. The locations included a natural tidal slough, a leveed tidal slough, and the inlet and outlet of a tidally muted managed pond established for waterfowl hunting. Fish growth rates differed significantly among locations, with the fastest growth occurring near the outlet in the managed pond. High zooplankton biomass at the managed pond outlet was the best correlate of salmon growth. Water temperatures in the managed pond were also cooler and less variable compared to sloughs, reducing thermal stress. The stress of low dissolved oxygen concentrations within the managed pond was likely mediated by high concentrations of zooplankton and favorable temperatures. Our findings suggest that muted tidal habitats in the San Francisco Estuary and elsewhere could be managed to promote growth and survival of juvenile salmon and other native fishes.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/acv.12697
+UR  - http://dx.doi.org/10.1111/acv.12697
+TI  - Megafire causes persistent loss of an old‐forest species
+T2  - Animal Conservation
+AU  - Jones, G. M.
+AU  - Kramer, H. A.
+AU  - Berigan, W. J.
+AU  - Whitmore, S. A.
+AU  - Gutiérrez, R. J.
+AU  - Peery, M. Z.
+PY  - 2021
+DA  - 2021/05/09
+PB  - Wiley
+SP  - 925-936
+IS  - 6
+VL  - 24
+SN  - 1367-9430
+SN  - 1469-1795
+AB  - AbstractClimate change and a long legacy of fire suppression are leading to an increased prevalence of ‘mega‐disturbances’ such as drought and wildfire in terrestrial ecosystems. Evidence for the immediate effects of these novel disturbances on wildlife is accumulating, but little information exists on longer term impacts to species and ecosystems. We studied the occurrence dynamics of an iconic old‐forest species, the spotted owl (Strix occidentalis), on a long‐term study area in the Sierra Nevada, CA, USA from 1989 to 2020 to evaluate their multi‐scale population response following a 2014 megafire (the ‘King’ Fire) that affected a portion of our study area. We found that extensive severe fire within spotted owl sites resulted in both immediate site abandonment and prolonged lack of re‐colonization by owls six years post‐fire. Sites that experienced high pyrodiversity – a mosaic of burn severities – were more likely to persist after the fire, but this effect was only apparent at finer spatial scales. A potentially confounding factor, post‐fire salvage logging, did not explain variability in the probability of either owls persisting at sites or sites becoming re‐colonized; effects could be attributed only to severe fire extent and pyrodiversity. Our study demonstrates the prolonged effects of severe fire on the occupancy of this forest‐dependent species, suggesting that forest restoration that reduces megafires could benefit spotted owls. Our work emphasizes that long‐term monitoring can offer surprising learning opportunities and provide unparalleled value for understanding and addressing emerging environmental concerns.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/ecy.3552
+UR  - http://dx.doi.org/10.1002/ecy.3552
+TI  - Megafires and thick smoke portend big problems for migratory birds
+T2  - Ecology
+AU  - Overton, Cory T.
+AU  - Lorenz, Austen A.
+AU  - James, Eric P.
+AU  - Ahmadov, Ravan
+AU  - Eadie, John M.
+AU  - Mcduie, Fiona
+AU  - Petrie, Mark J.
+AU  - Nicolai, Chris A.
+AU  - Weaver, Melanie L.
+AU  - Skalos, Daniel A.
+AU  - Skalos, Shannon M.
+AU  - Mott, Andrea L.
+AU  - Mackell, Desmond A.
+AU  - Kennedy, Anna
+AU  - Matchett, Elliott L.
+AU  - Casazza, Michael L.
+PY  - 2021
+DA  - 2021/11/06
+PB  - Wiley
+IS  - 1
+VL  - 103
+SN  - 0012-9658
+SN  - 1939-9170
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.envpol.2020.115808
+UR  - http://dx.doi.org/10.1016/j.envpol.2020.115808
+TI  - Mercury exposure in mammalian mesopredators inhabiting a brackish marsh
+T2  - Environmental Pollution
+AU  - Peterson, Sarah H.
+AU  - Ackerman, Joshua T.
+AU  - Hartman, C. Alex
+AU  - Casazza, Michael L.
+AU  - Feldheim, Cliff L.
+AU  - Herzog, Mark P.
+PY  - 2021
+DA  - 2021/03
+PB  - Elsevier BV
+SP  - 115808
+VL  - 273
+SN  - 0269-7491
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/2041-210x.13604
+UR  - http://dx.doi.org/10.1111/2041-210X.13604
+TI  - Merging computational fluid dynamics and machine learning to reveal animal migration strategies
+T2  - Methods in Ecology and Evolution
+AU  - Olivetti, Simone
+AU  - Gil, Michael A.
+AU  - Sridharan, Vamsi K.
+AU  - Hein, Andrew M.
+PY  - 2021
+DA  - 2021/05/20
+PB  - Wiley
+SP  - 1186-1200
+IS  - 7
+VL  - 12
+SN  - 2041-210X
+SN  - 2041-210X
+AB  - Abstract
+
+
+Understanding how migratory animals interact with dynamic physical environments remains a major challenge in migration biology. Interactions between migrants and wind and water currents are often poorly resolved in migration models due to both the lack of high‐resolution environmental data, and a lack of understanding of how migrants respond to fine‐scale structure in the physical environment.
+
+Here we develop a generalizable, data‐driven methodology to study the migration of animals through complex physical environments. Our approach combines validated computational fluid dynamic (CFD) modelling with animal tracking data to decompose migratory movements into two components, namely movement caused by physical forcing and movement due to active locomotion. We then use a flexible recurrent neural network model to relate local environmental conditions to locomotion behaviour of the migrating animal, allowing us to predict a migrant's force production, velocity and trajectory over time.
+
+We apply this framework to a large dataset containing measured trajectories of migrating Chinook salmon through a section of river in California's Sacramento‐San Joaquin Delta. We show that the model is capable of describing fish migratory movements as a function of local flow variables, and that it is possible to accurately forecast migratory movements on which the model was not trained.
+
+After validating our model, we show how our framework can be used to understand how migrants respond to local‐flow conditions, how migratory behaviour changes as overall conditions in the system change and how the energetic cost of migratory movements depends on environmental conditions in space and time. Our framework is flexible and can readily be applied to other species and systems.
+
+
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/ece3.8115
+UR  - http://dx.doi.org/10.1002/ece3.8115
+TI  - Migration stopover ecology of Cinnamon Teal in western North America
+T2  - Ecology and Evolution
+AU  - Mackell, Desmond A.
+AU  - Casazza, Michael L.
+AU  - Overton, Cory T.
+AU  - Donnelly, J. Patrick
+AU  - Olson, David
+AU  - McDuie, Fiona
+AU  - Ackerman, Joshua T.
+AU  - Eadie, John M.
+PY  - 2021
+DA  - 2021/09/21
+PB  - Wiley
+SP  - 14056-14069
+IS  - 20
+VL  - 11
+SN  - 2045-7758
+SN  - 2045-7758
+AB  - AbstractIdentifying migration routes and fall stopover sites of Cinnamon Teal (Spatula cyanoptera septentrionalium) can provide a spatial guide to management and conservation efforts, and address vulnerabilities in wetland networks that support migratory waterbirds. Using high spatiotemporal resolution GPS‐GSM transmitters, we analyzed 61 fall migration tracks across western North America during our three‐year study (2017–2019). We marked Cinnamon Teal primarily during spring/summer in important breeding and molting regions across seven states (California, Oregon, Washington, Idaho, Utah, Colorado, and Nevada). We assessed fall migration routes and timing, detected 186 fall stopover sites, and identified specific North American ecoregions where sites were located. We classified underlying land cover for each stopover site and measured habitat selection for 12 land cover types within each ecoregion. Cinnamon Teal selected a variety of flooded habitats including natural, riparian, tidal, and managed wetlands; wet agriculture (including irrigation ditches, flooded fields, and stock ponds); wastewater sites; and golf and urban ponds. Wet agriculture was the most used habitat type (29.8% of stopover locations), and over 72% of stopover locations were on private land. Relatively scarce habitats such as wastewater ponds, tidal marsh, and golf and urban ponds were highly selected in specific ecoregions. In contrast, dry non‐habitat across all ecoregions, and dry agriculture in the Cold Deserts and Mediterranean California ecoregions, was consistently avoided. Resources used by Cinnamon Teal often reflected wetland availability across the west and emphasize their adaptability to dynamic resource conditions in arid landscapes. Our results provide much needed information on spatial and temporal resource use by Cinnamon Teal during migration and indicate important wetland habitats for migrating waterfowl in the western United States.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss1art3
+UR  - http://dx.doi.org/10.15447/sfews.2021v19iss1art3
+TI  - Modeling Delta Smelt Distribution for Hypothesized Swimming Behaviors
+T2  - San Francisco Estuary and Watershed Science
+AU  - Gross, Edward
+AU  - Korman, Josh
+AU  - Grimaldo, Lenny
+AU  - MacWilliams, Michael
+AU  - Bever, Aaron
+AU  - Smith, Peter
+PY  - 2021
+DA  - 2021/03/16
+PB  - California Digital Library (CDL)
+IS  - 1
+VL  - 19
+SN  - 1546-2366
+SN  - 1546-2366
+AB  - Delta Smelt, Hypomesus transpacificus, is an endangered pelagic fish native to the San Francisco Estuary. The distribution of Delta Smelt in the estuary shifts landward from low-salinity habitat to freshwater habitat before spawning. This spawning migration often coincides with the first substantial freshwater inflow to the estuary during winter. To accomplish this landward shift in distribution, Delta Smelt are believed to use the tides by swimming to faster-moving currents during flood tides and then repositioning themselves to slower-moving currents to reduce seaward movement on ebb tides. Studies have hypothesized that the swimming behavior of Delta Smelt during this period is influenced by environmental conditions such as salinity and turbidity. The details of these swimming behaviors—including the extent to which flows, salinity, and turbidity affect behaviors and distributions—are uncertain. The spawning migration is of management interest because an increase in observed counts of Delta Smelt at the South Delta water-export facilities has coincided roughly with the spawning migration in many years. In this study, we investigated a range of hypothesized swimming behaviors using a three-dimensional particle-tracking model for water year 2002 during the spawning migration, and compared the predicted distributions of Delta Smelt to distributions inferred from catch data. Our goal was to improve understanding of the influence of Delta Smelt swimming on distribution, and, ultimately, to develop a modeling tool to help management agencies identify conditions associated with entrainment losses. Predictions of Delta Smelt distributions and entrainment varied greatly among behaviors. Without swimming, Delta Smelt would be rapidly transported seaward of Suisun Bay, while continuous tidal migration would move them deep into the interior Delta. These behaviors and a simple turbidity-driven behavior model predicted distributions inconsistent with observations, while more complex behavior rules allowed improved predictions.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.desal.2021.115129
+UR  - http://dx.doi.org/10.1016/j.desal.2021.115129
+TI  - Modeling UF fouling and backwash in seawater RO feedwater treatment using neural networks with evolutionary algorithm and Bayesian binary classification
+T2  - Desalination
+AU  - Zhou, Yang
+AU  - Khan, Bilal
+AU  - Gu, Han
+AU  - Christofides, Panagiotis D.
+AU  - Cohen, Yoram
+PY  - 2021
+DA  - 2021/10
+PB  - Elsevier BV
+SP  - 115129
+VL  - 513
+SN  - 0011-9164
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1175/mwr-d-20-0364.1
+UR  - http://dx.doi.org/10.1175/MWR-D-20-0364.1
+TI  - Modulation of Atmospheric Rivers by Mesoscale Frontal Waves and Latent Heating: Comparison of Two U.S. West Coast Events
+T2  - Monthly Weather Review
+AU  - Michaelis, Allison C.
+AU  - Martin, Andrew C.
+AU  - Fish, Meredith A.
+AU  - Hecht, Chad W.
+AU  - Ralph, F. Martin
+PY  - 2021
+DA  - 2021/08
+PB  - American Meteorological Society
+SP  - 2755-2776
+IS  - 8
+VL  - 149
+SN  - 0027-0644
+SN  - 1520-0493
+AB  - AbstractA complex and underexplored relationship exists between atmospheric rivers (ARs) and mesoscale frontal waves (MFWs). The present study further explores and quantifies the importance of diabatic processes to MFW development and the AR–MFW interaction by simulating two ARs impacting Northern California’s flood-vulnerable Russian River watershed using the Model for Prediction Across Scales-Atmosphere (MPAS-A) with and without the effects of latent heating. Despite the storms’ contrasting characteristics, diabatic processes within the system were critical to the development of MFWs, the timing and magnitude of integrated vapor transport (IVT), and precipitation impacts over the Russian River watershed in both cases. Low-altitude circulations and lower-tropospheric moisture content in and around the MFWs are considerably reduced without latent heating, contributing to a decrease in moisture transport, moisture convergence, and IVT. Differences in IVT are not consistently dynamic (i.e., wind-driven) or thermodynamic (i.e., moisture-driven), but instead vary by case and by time throughout each event. For one event, AR conditions over the watershed persisted for 6 h less and the peak IVT occurred 6 h earlier and was reduced by ~17%; weaker orographic and dynamic precipitation forcings reduced precipitation totals by ~64%. Similarly, turning off latent heating shortened the second event by 24 h and reduced precipitation totals by ~49%; the maximum IVT over the watershed was weakened by ~42% and delayed by 18 h. Thus, sufficient representation of diabatic processes, and by inference, water vapor initial conditions, is critical for resolving MFWs, their feedbacks on AR evolution, and associated precipitation forecasts on watershed scales.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/1752-1688.12917
+UR  - http://dx.doi.org/10.1111/1752-1688.12917
+TI  - Monitoring Turbidity in San Francisco Estuary and Sacramento–San Joaquin Delta Using Satellite Remote Sensing
+T2  - JAWRA Journal of the American Water Resources Association
+AU  - Lee, Christine M.
+AU  - Hestir, Erin L.
+AU  - Tufillaro, Nicholas
+AU  - Palmieri, Brendan
+AU  - Acuña, Shawn
+AU  - Osti, Amye
+AU  - Bergamaschi, Brian A.
+AU  - Sommer, Ted
+PY  - 2021
+DA  - 2021/05/27
+PB  - Wiley
+SP  - 737-751
+IS  - 5
+VL  - 57
+SN  - 1093-474X
+SN  - 1752-1688
+AB  - AbstractThis study utilizes satellite data to investigate water quality conditions in the San Francisco Estuary and its upstream delta, the Sacramento–San Joaquin River Delta. To do this, this study derives turbidity from the European Space Agency satellite Sentinel‐2 acquired from September 2015 to June 2019 and conducts a rigorous validation with in situ measurements of turbidity from optical sensors at continuous monitoring stations. This validation includes 965 matchup comparisons between satellite and in situ sensor data across 22 stations, yielding R2 = 0.63 and 0.75 for Nephelometric Turbidity Unit and Formazin Nephelometric Unit (FNU) stations, respectively. This study then applies remote sensing to evaluate patterns in turbidity during the Suisun Marsh Salinity Control Gates Action (“Gates action”), a pilot study designed to increase habitat access and quality for the endangered Delta Smelt. The basic strategy was to direct more freshwater into Suisun Marsh, creating more low salinity habitat that would then have higher (and more suitable) turbidity than upstream river channels. For all seven acquisitions considered from June 29 to September 27, 2018, turbidity conditions in Bays and Sloughs subregions were consistently higher (and more suitable) (26–47 FNU) than what was observed in the upstream River region (13–25 FNU). This overall pattern was observed when comparing images acquired during similar tidal stages and heights.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s12237-021-00977-4
+UR  - http://dx.doi.org/10.1007/s12237-021-00977-4
+TI  - Monitoring Vegetation Dynamics at a Tidal Marsh Restoration Site: Integrating Field Methods, Remote Sensing and Modeling
+T2  - Estuaries and Coasts
+AU  - Thomsen, Alexandra S.
+AU  - Krause, Johannes
+AU  - Appiano, Monica
+AU  - Tanner, Karen E.
+AU  - Endris, Charlie
+AU  - Haskins, John
+AU  - Watson, Elizabeth
+AU  - Woolfolk, Andrea
+AU  - Fountain, Monique C.
+AU  - Wasson, Kerstin
+PY  - 2021
+DA  - 2021/08/11
+PB  - Springer Science and Business Media LLC
+SP  - 523-538
+IS  - 2
+VL  - 45
+SN  - 1559-2723
+SN  - 1559-2731
+AB  - 
+                        AbstractSea level rise threatens coastal wetlands worldwide, and restoration projects are implementing strategies that decrease vulnerability to this threat. Vegetation monitoring at sites employing new restoration strategies and determination of appropriate monitoring techniques improve understanding of factors leading to restoration success. In Central California, soil addition raised a degraded marsh plain to a high elevation expected to be resilient to sea level rise over the next century. We monitored plant survival and recruitment using area searches, transect surveys, and unoccupied aircraft systems (UAS) imagery. We used random forest modeling to examine the influence of nine environmental variables on vegetation colonization and conducted targeted soil sampling to examine additional factors contributing to vegetation patterns. Limited pre-construction vegetation survived soil addition, likely due to the sediment thickness (mean = 69 cm) and placement method. After 1 year, about 10% of the initially bare area saw vegetation reestablishment. Elevation and inundation frequency were particularly critical to understanding restoration success, with greatest vegetation cover in high-elevation areas tidally inundated &lt; 0.85% of the time. Soil analysis suggested greater salinity stress and ammonium levels in poorly-vegetated compared to well-vegetated areas at the same elevation. We found that both transect and UAS methods were suitable for monitoring vegetation colonization. Field transects may provide the best approach for tracking early vegetation colonization at moderate-sized sites under resource limitations, but UAS provide a complementary landscape perspective. Beyond elucidating patterns and drivers of marsh dynamics at a newly restored site, our investigation informs monitoring of marsh restoration projects globally.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1175/jcli-d-20-0391.1
+UR  - http://dx.doi.org/10.1175/JCLI-D-20-0391.1
+TI  - Monthly Modulations of ENSO Teleconnections: Implications for Potential Predictability in North America
+T2  - Journal of Climate
+AU  - Chapman, William E.
+AU  - Subramanian, Aneesh C.
+AU  - Xie, Shang-Ping
+AU  - Sierks, Michael D.
+AU  - Ralph, F. Martin
+AU  - Kamae, Youichi
+PY  - 2021
+DA  - 2021/03/03
+PB  - American Meteorological Society
+SP  - 1-71
+SN  - 0894-8755
+SN  - 1520-0442
+AB  - AbstractUsing a high-resolution atmospheric general circulation model simulation of unprecedented ensemble size, we examine potential predictability of monthly anomalies under El Niño Southern Oscillation (ENSO) forcing and back-ground internal variability. This study reveals the pronounced month-to-month evolution of both the ENSO forcing signal and internal variability. Internal variance in upper-level geopotential height decreases (∼ 10%) over the North Pacific during El Niño as the westerly jet extends eastward, allowing forced signals to account for a greater fraction of the total variability, and leading to increased potential predictability. We identify February and March of El Niño years as the most predictable months using a signal-to-noise analysis. In contrast, December, a month typically included in teleconnection studies, shows little-to-no potential predictability. We show that the seasonal evolution of SST forcing and variability leads to significant signal-to-noise relationships that can be directly linked to both upper-level and surface variable predictability for a given month. The stark changes in forced response, internal variability, and thus signal-to-noise across an ENSO season indicate that subseasonal fields should be used to diagnose potential predictability over North America associated with ENSO teleconnections. Using surface air temperature and precipitation as examples, this study provides motivation to pursue ‘windows of forecast opportunity’, in which statistical skill can be developed, tested, and leveraged to determine times and regions in which this skill may be elevated.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1029/2021jd034865
+UR  - http://dx.doi.org/10.1029/2021JD034865
+TI  - Multi‐GNSS Airborne Radio Occultation Observations as a Complement to Dropsondes in Atmospheric River Reconnaissance
+T2  - Journal of Geophysical Research: Atmospheres
+AU  - Haase, J. S.
+AU  - Murphy, M. J.
+AU  - Cao, B.
+AU  - Ralph, F. M.
+AU  - Zheng, M.
+AU  - Delle Monache, L.
+PY  - 2021
+DA  - 2021/11/04
+PB  - American Geophysical Union (AGU)
+IS  - 21
+VL  - 126
+SN  - 2169-897X
+SN  - 2169-8996
+AB  - AbstractVariations in the water vapor that atmospheric rivers (ARs) carry toward North America within Pacific storms strongly modulates the spatiotemporal distribution of west‐coast precipitation. The “AR Recon” program was established to improve forecasts of landfalling Pacific‐coast ARs and their associated precipitation. Dropsondes are deployed from weather reconnaissance aircraft and pressure sensors have been added to drifting ocean buoys to fill a major gap in standard weather observations, while research is being conducted on the potential for airborne Global Navigation Satellite System (GNSS) radio occultation (ARO) to also contribute to forecast improvement. ARO further expands the spatial coverage of the data collected during AR Recon flights. This study provides the first description of these data, which provide water vapor and temperature information typically as far as 300 km to the side of the aircraft. The first refractivity profiles from European Galileo satellites are provided and their accuracy is evaluated using the dropsondes. It is shown that spatial variations in the refractivity anomaly (difference from the climatological background) are modulated by AR features, including the low‐level jet and tropopause fold, illustrating the potential for RO measurements to represent key AR characteristics. It is demonstrated that assimilation of ARO refractivity profiles can influence the moisture used as initial conditions in a high‐resolution model. While the dropsonde measurements provide precise, in situ wind, temperature and water vapor vertical profiles beneath the aircraft, and the buoys provide surface pressure, ARO provides complementary thermodynamic information aloft in broad areas not otherwise sampled at no additional expendable cost.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1029/2020wr028876
+UR  - http://dx.doi.org/10.1029/2020WR028876
+TI  - Multiscale Assessment of Agricultural Consumptive Water Use in California's Central Valley
+T2  - Water Resources Research
+AU  - Wong, A. J.
+AU  - Jin, Y.
+AU  - Medellín‐Azuara, J.
+AU  - Paw U, K. T.
+AU  - Kent, E. R.
+AU  - Clay, J. M.
+AU  - Gao, F.
+AU  - Fisher, J. B.
+AU  - Rivera, G.
+AU  - Lee, C. M.
+AU  - Hemes, K. S.
+AU  - Eichelmann, E.
+AU  - Baldocchi, D. D.
+AU  - Hook, S. J.
+PY  - 2021
+DA  - 2021/09
+PB  - American Geophysical Union (AGU)
+IS  - 9
+VL  - 57
+SN  - 0043-1397
+SN  - 1944-7973
+AB  - AbstractSpatial estimates of crop evapotranspiration with high accuracy from the field to watershed scale have become increasingly important for water management, particularly over irrigated agriculture in semiarid regions. Here, we provide a comprehensive assessment on patterns of annual agricultural water use over California's Central Valley, using 30‐m daily evapotranspiration estimates based on Landsat satellite data. A semiempirical Priestley‐Taylor approach was locally optimized and cross‐validated with available field measurements for major crops including alfalfa, almond, citrus, corn, pasture, and rice. The evapotranspiration estimates explained &gt;70% variance in daily measurements from independent sites with an RMSE of 0.88 mm day−1. When aggregated over the Valley, we estimated an average evapotranspiration of 820 ± 290 mm yr−1 in 2014. Agricultural water use varied significantly across and within crop types, with a coefficient of variation ranging from 8% for Rice (1,110 ± 85 mm yr−1) to 59% for Pistachio (592 ± 352 mm yr−1). Total water uses in 2016 increased by 9.6%, as compared to 2014, mostly because of land‐use conversion from fallow/idle land to cropland. Analysis across 134 Groundwater Sustainability Agencies (GSAs) further showed a large variation of agricultural evapotranspiration among and within GSAs, especially for tree crops, e.g., almond evapotranspiration ranging from 339 ± 80 mm yr−1 in Tracy to 1,240 ± 136 mm yr−1 in Tri‐County Water Authority. Continuous monitoring and assessment of the dynamics and spatial heterogeneity of agricultural evapotranspiration provide data‐driven guidance for more effective land use and water planning across scales.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/ece3.7561
+UR  - http://dx.doi.org/10.1002/ece3.7561
+TI  - Nocturnal incubation recess and flushing behavior by duck hens
+T2  - Ecology and Evolution
+AU  - Croston, Rebecca
+AU  - Peterson, Sarah H.
+AU  - Hartman, C. Alex
+AU  - Herzog, Mark P.
+AU  - Feldheim, Cliff L.
+AU  - Casazza, Michael L.
+AU  - Ackerman, Joshua T.
+PY  - 2021
+DA  - 2021/05
+PB  - Wiley
+SP  - 7292-7301
+IS  - 12
+VL  - 11
+SN  - 2045-7758
+SN  - 2045-7758
+AB  - AbstractIncubating birds must balance the needs of their developing embryos with their own physiological needs, and many birds accomplish this by taking periodic breaks from incubation. Mallard (Anas platyrhynchos) and gadwall (Mareca strepera) hens typically take incubation recesses in the early morning and late afternoon, but recesses can also take place at night. We examined nocturnal incubation recess behavior for mallard and gadwall hens nesting in Suisun Marsh, California, USA, using iButton temperature dataloggers and continuous video monitoring at nests. Fourteen percent of all detected incubation recesses (N = 13,708) were nocturnal and took place on 20% of nest‐days (N = 8,668). Video monitoring showed that hens covered their eggs with down feathers when they initiated a nocturnal recess themselves as they would a diurnal recess, but they left the eggs uncovered in 94% of the nocturnal recesses in which predators appeared at nests. Thus, determining whether or not eggs were left uncovered during a recess can provide strong indication whether the recess was initiated by the hen (eggs covered) or a predator (eggs uncovered). Because nest temperature decreased more rapidly when eggs were left uncovered versus covered, we were able to characterize eggs during nocturnal incubation recesses as covered or uncovered using nest temperature data. Overall, we predicted that 75% of nocturnal recesses were hen‐initiated recesses (eggs covered) whereas 25% of nocturnal recesses were predator‐initiated recesses (eggs uncovered). Of the predator‐initiated nocturnal recesses, 56% were accompanied by evidence of depredation at the nest during the subsequent nest monitoring visit. Hen‐initiated nocturnal recesses began later in the night (closer to morning) and were shorter than predator‐initiated nocturnal recesses. Our results indicate that nocturnal incubation recesses occur regularly (14% of all recesses) and, similar to diurnal recesses, most nocturnal recesses (75%) are initiated by the hen rather than an approaching predator.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss4art2
+UR  - http://dx.doi.org/10.15447/sfews.2021v19iss4art2
+TI  - Patterns of Water Use in California
+T2  - San Francisco Estuary and Watershed Science
+AU  - 
+AU  - Helly, John
+AU  - Cayan, Daniel
+AU  - 
+AU  - Corringham, Thomas
+AU  - 
+AU  - Stricklin, Jennifer
+AU  - 
+AU  - Hillaire, Todd
+AU  - 
+PY  - 2021
+DA  - 2021/12/13
+PB  - California Digital Library (CDL)
+IS  - 4
+VL  - 19
+SN  - 1546-2366
+AB  - Recent patterns of water use and supply in California are presented based on a new data set compiled from the California Department of Water Resources water balance data for 2002 through 2016. The water use and supply include surface water and groundwater, although groundwater reporting has been incomplete. These data are used to support the Water Plan released every 3 to 5 years and are the most comprehensive and finest spatial- and temporal-scale data set for California water resources. First, using the Bay–Delta watershed as a case example, we show that recent fluctuations in water use are highly correlated with variations in precipitation. Developed water supplies and use show these fluctuations, but they are modified by reservoir inflows and releases, groundwater supplies, and Delta outflows. Second, although the annually precipitated water supply in the Bay–Delta varies by about 30%, the developed water supply damps this considerably. The water management system maintained nearly constant agricultural water use even in periods of intense drought, with year-to-year variation of about 7%. Variability in urban water use is higher (∼20%), largely from conservation during periods of drought. Finally, this information can help improve water resource management because it connects regional-scale data to meaningful policy decision-making at county and sub-county levels. At a time when water policy and management are being re-evaluated across the American West in the light of changing climate, decision-making informed by science and data is urgently needed. The statewide water balance data provide the means to establish a consistent, quantitative framework for water resource analysis throughout the state.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.3390/cli9020026
+UR  - http://dx.doi.org/10.3390/cli9020026
+TI  - Projected Changes in Water Year Types and Hydrological Drought in California’s Central Valley in the 21st Century
+T2  - Climate
+AU  - He, Minxue
+AU  - Anderson, Jamie
+AU  - Lynn, Elissa
+AU  - Arnold, Wyatt
+PY  - 2021
+DA  - 2021/01/28
+PB  - MDPI AG
+SP  - 26
+IS  - 2
+VL  - 9
+SN  - 2225-1154
+AB  - The study explores the potential changes in water year types and hydrological droughts as well as runoff, based on which the former two metrics are calculated in the Central Valley of California, United States, in the 21st century. The latest operative projections from four representative climate models under two greenhouse-gas emission scenarios are employed for this purpose. The study shows that the temporal distribution of annual runoff is expected to change in terms of shifting more volume to the wet season (October–March) from the snowmelt season (April–July). Increases in wet season runoff volume are more noticeable under the higher (versus lower) emission scenario, while decreases in snowmelt season runoff are generally more significant under the lower (versus higher) emission scenario. In comparison, changes in the water year types are more influenced by climate models rather than emission scenarios. When comparing two regions in the Central Valley, the rain-dominated Sacramento River region is projected to experience more wet years and less critical years than the snow-dominated San Joaquin River region due to their hydroclimatic and geographic differences. Hydrological droughts in the snowmelt season and wet season mostly exhibit upward and downward trends, respectively. However, the uncertainty in the direction of the trend on annual and multi-year scales tends to be climate-model dependent. Overall, this study highlights non-stationarity and long-term uncertainty in these study metrics. They need to be considered when developing adaptive water resources management strategies, some of which are discussed in the study.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1371/journal.pone.0237686
+UR  - http://dx.doi.org/10.1371/journal.pone.0237686
+TI  - Reconciling fish and farms: Methods for managing California rice fields as salmon habitat
+T2  - PLOS ONE
+AU  - Holmes, Eric J.
+AU  - Saffarinia, Parsa
+AU  - Rypel, Andrew L.
+AU  - Bell-Tilcock, Miranda N.
+AU  - Katz, Jacob V.
+AU  - Jeffres, Carson A.
+PY  - 2021
+DA  - 2021/02/24
+PB  - Public Library of Science (PLoS)
+SP  - e0237686
+IS  - 2
+VL  - 16
+SN  - 1932-6203
+AB  - Rearing habitat for juvenile Chinook Salmon (Oncorhynchus tshawytscha) in California, the southernmost portion of their range, has drastically declined throughout the past century. Recently, through cooperative agreements with diverse stakeholders, winter-flooded agricultural rice fields in California’s Central Valley have emerged as ecologically functioning floodplain rearing habitat for juvenile Chinook Salmon. From 2013 to 2016, we conducted a series of experiments examining methods to enhance habitat benefits for fall-run Chinook Salmon reared on winter-flooded rice fields in the Yolo Bypass, a modified floodplain managed for flood control, agriculture, and wildlife habitat in the Sacramento River Valley of California. Investigations included studying the effect of 1) post-harvest field substrate; 2) depth refugia; 3) duration of field drainage; and 4) duration of rearing occupancy on in-situ diet, growth and survival of juvenile salmon. Post-harvest substrate treatment had only a small effect on the lower trophic food web and an insignificant effect on growth rates or survival of rearing hatchery-origin, fall-run Chinook Salmon. Similarly, depth refugia, created by trenches dug to various depths, also had an insignificant effect on survival. Rapid field drainage yielded significantly higher survival compared to drainage methods drawn out over longer periods. A mortality of approximately one third was observed in the first week after fish were released in the floodplain. This initial mortality event was followed by high, stable survival rates for the remainder of the 6-week duration of floodplain rearing study. Across years, in-field survival ranged 7.4–61.6% and increased over the course of the experiments. Despite coinciding with the most extreme drought in California’s recorded history, which elevated water temperatures and reduced the regional extent of adjacent flooded habitats which concentrated avian predators, the adaptive research framework enabled incremental improvements in design to increase survival. Zooplankton (fish food) in the winter-flooded rice fields were 53-150x more abundant than those sampled concurrently in the adjacent Sacramento River channel. Correspondingly, observed somatic growth rates of juvenile hatchery-sourced fall-run Chinook Salmon stocked in rice fields were two to five times greater than concurrently and previously observed growth rates in the adjacent Sacramento River. The abundance of food resources and exceptionally high growth rates observed during these experiments illustrate the potential benefits of using existing agricultural infrastructure to approximate the floodplain wetland physical conditions and hydrologic patterns (shallow, long-duration inundation of cool floodplain habitats in mid-winter) under which Chinook Salmon evolved and to which they are adapted.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1139/cjfas-2020-0241
+UR  - http://dx.doi.org/10.1139/cjfas-2020-0241
+TI  - Recruitment dynamics of non-native largemouth bass within the Sacramento–San Joaquin Delta
+T2  - Canadian Journal of Fisheries and Aquatic Sciences
+AU  - Huntsman, Brock M.
+AU  - Feyrer, Frederick
+AU  - Young, Matthew J.
+AU  - Hobbs, James A.
+AU  - Acuña, Shawn
+AU  - Kirsch, Joseph E.
+AU  - Mahardja, Brian
+AU  - Teh, Swee
+PY  - 2021
+DA  - 2021/05
+PB  - Canadian Science Publishing
+SP  - 505-521
+IS  - 5
+VL  - 78
+SN  - 0706-652X
+SN  - 1205-7533
+AB  - Largemouth bass (LMB; Micropterus salmoides) recruitment is limited by a critical developmental period during early life stages, but this mechanism may be less important within non-native habitats. We conducted boat electrofishing surveys in four tidal lakes of California’s Sacramento–San Joaquin Delta (SSJD) from 2010 to 2011 to describe introduced LMB recruitment dynamics. We evaluated growth, proximate composition, and health indices of young-of-the-year (YOY) LMB among tidal lakes and developed an integrated count model to determine how factors known to affect LMB recruitment shape SSJD population structure. Our results show a mismatch among growth, nutrition, and YOY abundance, where the tidal lake with the most abundant and fastest-growing LMB had the poorest nutritional status. The warm winter water temperatures and lack of a hatching-cohort growth advantage suggests overwinter starvation plays a less important role in SSJD LMB recruitment than in many native LMB habitats. Collectively, our results suggest that habitat characteristics (submerged aquatic vegetation) and not overwinter mortality shapes SSJD LMB population structure, a mechanism consistent with contemporary hypotheses about the altered fish community structure of the SSJD.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss1art5
+UR  - http://dx.doi.org/10.15447/sfews.2021v19iss1art5
+TI  - Re-Examining Factors That Affect Delta Smelt (Hypomesus transpacificus) Entrainment at the State Water Project and Central Valley Project in the Sacramento–San Joaquin Delta
+T2  - San Francisco Estuary and Watershed Science
+AU  - Grimaldo, Lenny
+AU  - Smith, William
+AU  - Nobriga, Matthew
+PY  - 2021
+DA  - 2021/03/16
+PB  - California Digital Library (CDL)
+IS  - 1
+VL  - 19
+SN  - 1546-2366
+SN  - 1546-2366
+AB  - Managing endangered species is challenging when increased rarity leads to an inability to detect their responses to environmental conditions. In the San Francisco Estuary, the state and federally listed Delta Smelt (Hypomesus transpacificus) has declined to record low numbers, elevating concern over entrainment at the State Water Project (SWP) and Central Valley Project (CVP) water export facilities. The objective of this study was to: (1) revisit previous work on factors that affect adult Delta Smelt collected at the SWP and CVP fish collection facilities using updated conceptual models and a new statistical approach; and (2) to determine factors that affect salvage at time-scales of interest to management. Boosted Regression Tree (BRT) models were applied to salvage data at the SWP and CVP, aggregated into two response categories: a “first flush” response that represented daily salvage from the start of the entrainment window to the 50% midpoint of observed salvage, and a “seasonal” response that included daily salvage from the entire entrainment window. Precipitation, sub-adult abundance, Yolo Bypass flow, and exports best explained first flush salvage at both the SWP and CVP. The seasonal models included a similar set of influential variables, but the relative influence of precipitation was lower compared to the first flush models., Yolo Bypass flow was more influential for seasonal salvage at the SWP, compared to the CVP; Old and Middle River flow was more influential for seasonal salvage at the CVP. Although the rank of variable importance that explains salvage differed slightly between first flush and seasonal time-scales, this study suggests that salvage is most influenced by hydrodynamics, water quality, and population abundance. The application of BRT models to predict salvage is limited, because salvage has been low since federal protections were implemented in 2008. Forecast models that integrate real-time variables with fish behavior models may improve Delta Smelt management.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.agrformet.2020.108215
+UR  - http://dx.doi.org/10.1016/j.agrformet.2020.108215
+TI  - Remotely sensed phenological heterogeneity of restored wetlands: linking vegetation structure and function
+T2  - Agricultural and Forest Meteorology
+AU  - Dronova, Iryna
+AU  - Taddeo, Sophie
+AU  - Hemes, Kyle S.
+AU  - Knox, Sara H.
+AU  - Valach, Alex
+AU  - Oikawa, Patricia Y.
+AU  - Kasak, Kuno
+AU  - Baldocchi, Dennis D.
+PY  - 2021
+DA  - 2021/01
+PB  - Elsevier BV
+SP  - 108215
+VL  - 296
+SN  - 0168-1923
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1029/2021gl093357
+UR  - http://dx.doi.org/10.1029/2021GL093357
+TI  - Representation of Dropsonde‐Observed Atmospheric River Conditions in Reanalyses
+T2  - Geophysical Research Letters
+AU  - Cobb, A.
+AU  - Delle Monache, L.
+AU  - Cannon, F.
+AU  - Ralph, F. M.
+PY  - 2021
+DA  - 2021/08
+PB  - American Geophysical Union (AGU)
+IS  - 15
+VL  - 48
+SN  - 0094-8276
+SN  - 1944-8007
+AB  - AbstractAtmospheric rivers (ARs) are the primary mechanism for mid‐latitude water vapor transport, and are identified by a key variable, integrated water vapor transport (IVT). The ability of atmospheric reanalyses in providing a ground‐truth dataset for the IVT field is assessed by comparing ERA5, MERRA‐2, and JRA‐55 data against a large sample (&gt;1,700) of dropsonde profiles deployed in and around ARs. Bias and error increase with IVT magnitude, although asymmetrically around the AR core. A partitioning of the source of error reveals that humidity contributes more to the difference in IVT above 800 hPa, while wind is the dominant source in the lowest levels (to 950 hPa). This quantification of reanalysis error and bias identifies ERA5 as the dataset with the lowest IVT errors and demonstrates remaining challenges in representing the observed state in ARs.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/eap.2243
+UR  - http://dx.doi.org/10.1002/eap.2243
+TI  - Resistance and resilience of pelagic and littoral fishes to drought in the San Francisco Estuary
+T2  - Ecological Applications
+AU  - Mahardja, Brian
+AU  - Tobias, Vanessa
+AU  - Khanna, Shruti
+AU  - Mitchell, Lara
+AU  - Lehman, Peggy
+AU  - Sommer, Ted
+AU  - Brown, Larry
+AU  - Culberson, Steve
+AU  - Conrad, J. Louise
+PY  - 2021
+DA  - 2021/01/22
+PB  - Wiley
+IS  - 2
+VL  - 31
+SN  - 1051-0761
+SN  - 1939-5582
+AB  - AbstractMany estuarine ecosystems and the fish communities that inhabit them have undergone substantial changes in the past several decades, largely due to multiple interacting stressors that are often of anthropogenic origin. Few are more impactful than droughts, which are predicted to increase in both frequency and severity with climate change. In this study, we examined over five decades of fish monitoring data from the San Francisco Estuary, California, USA, to evaluate the resistance and resilience of fish communities to disturbance from prolonged drought events. High resistance was defined by the lack of decline in species occurrence from a wet to a subsequent drought period, while high resilience was defined by the increase in species occurrence from a drought to a subsequent wet period. We found some unifying themes connecting the multiple drought events over the 50‐yr period. Pelagic fishes consistently declined during droughts (low resistance), but exhibit a considerable amount of resiliency and often rebound in the subsequent wet years. However, full recovery does not occur in all wet years following droughts, leading to permanently lower baseline numbers for some pelagic fishes over time. In contrast, littoral fishes seem to be more resistant to drought and may even increase in occurrence during dry years. Based on the consistent detrimental effects of drought on pelagic fishes within the San Francisco Estuary and the inability of these fish populations to recover in some years, we conclude that freshwater flow remains a crucial but not sufficient management tool for the conservation of estuarine biodiversity.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1186/s12864-021-07592-4
+UR  - http://dx.doi.org/10.1186/s12864-021-07592-4
+TI  - RNA sequencing describes both population structure and plasticity-selection dynamics in a non-model fish
+T2  - BMC Genomics
+AU  - Thorstensen, Matt J.
+AU  - Baerwald, Melinda R.
+AU  - Jeffries, Ken M.
+PY  - 2021
+DA  - 2021/04/15
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 22
+SN  - 1471-2164
+AB  - Abstract
+                Background
+                Messenger RNA sequencing is becoming more common in studies of non-model species and is most often used for gene expression-based investigations. However, the method holds potential for numerous other applications as well—including analyses of alternative splicing, population structure, and signatures of selection. To maximize the utility of mRNA data sets, distinct analyses may be combined such as by exploring dynamics between gene expression with signatures of selection in the context of population structure. Here, we compare two published data sets describing two populations of a minnow species endemic to the San Francisco Estuary (Sacramento splittail, Pogonichthys macrolepidotus): a microsatellite data set showing population structure, and an mRNA whole transcriptome data set obtained after the two populations were exposed to a salinity challenge. We compared measures of population structure and genetic variation using single nucleotide polymorphisms (SNPs) called from mRNA from the whole transcriptome sequencing study with those patterns determined from microsatellites. For investigating plasticity and evolution, intra- and inter-population transcriptome plasticity was investigated with differential gene expression, differential exon usage, and gene expression variation. Outlier SNP analysis was also performed on the mRNA data set and signatures of selection and phenotypic plasticity were investigated on an individual-gene basis.
+              
+                Results
+                We found that mRNA sequencing revealed patterns of population structure consistent with those found with microsatellites, but with lower magnitudes of genetic variation and population differentiation consistent with widespread purifying selection expected when using mRNA. In addition, within individual genes, phenotypic plasticity or signatures of selection were found in almost mutual exclusion (except heatr6, nfu1, slc22a6, sya, and mmp13).
+              
+                Conclusions
+                These results show that an mRNA sequencing data set may have multiple uses, including describing population structure and for investigating the mechanistic interplay of evolution and plasticity in adaptation. MRNA sequencing thus complements traditional sequencing methods used for population genetics, in addition to its utility for describing phenotypic plasticity.
+              
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/ecs2.3366
+UR  - http://dx.doi.org/10.1002/ecs2.3366
+TI  - Seasonal impoundment alters patterns of tidal wetland plant diversity across spatial scales
+T2  - Ecosphere
+AU  - Jones, Scott F.
+AU  - Janousek, Christopher N.
+AU  - Casazza, Michael L.
+AU  - Takekawa, John Y.
+AU  - Thorne, Karen M.
+PY  - 2021
+DA  - 2021/02
+PB  - Wiley
+IS  - 2
+VL  - 12
+SN  - 2150-8925
+SN  - 2150-8925
+AB  - AbstractUnderstanding patterns of biodiversity is a key goal of ecology and is especially pressing in the current human‐caused biodiversity crisis. In wetland ecosystems, human impacts are centered around hydrologic manipulation including the common practice of wetland diking and impoundment. Constraining how wetland management influences plant biodiversity patterns across spatial scales will provide information on how best to modify actions to preserve biodiversity and ecosystem function in managed wetlands. Here, we compare patterns of plant diversity and species presence, abundance, and community composition at several spatial scales among tidal wetlands along an estuarine salinity gradient and managed wetlands that were formerly tidal. Managed impounded wetlands had decreased alpha and gamma diversity of rare species, with less than 60% of the species richness found in tidal brackish wetlands at several spatial scales. There was little change in the overall pattern of alpha, beta, and gamma diversity for common species in impounded wetlands; however, dominant tidal brackish species, primarily perennial rhizomatous graminoids, were replaced with management target plants and non‐native annual grasses in impounded wetlands. This species replacement led to over 60% of impounded sites being classified as containing novel plant assemblages. An additional 25% of impounded sites were classified as containing tidal saline plant assemblages, suggesting potential soil salinization. Along the estuarine gradient, patchiness and codominance of common plant species drove high diversity and turnover in tidal brackish wetlands, while it remains unclear whether tidal fresh or brackish wetlands maximize rare plant diversity. With reduced species richness, altered functional dominants, and novel or saline assemblages, impounded brackish wetlands may require careful water management to balance native plant biodiversity, associated ecosystem processes, and waterfowl requirements.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10641-021-01197-2
+UR  - http://dx.doi.org/10.1007/s10641-021-01197-2
+TI  - Seasonal movement patterns and habitat use of sub-adult Striped Bass Morone saxatilis in a highly managed and tidally influenced Pacific Coast Watershed
+T2  - Environmental Biology of Fishes
+AU  - Le Doux-Bloom, Cynthia M.
+AU  - Lane, Rebekah S.
+AU  - Christian, Grant J.
+AU  - Masatani, Catherine A.
+AU  - Hemmert, Jennifer E.
+AU  - Klimley, A. Peter
+PY  - 2021
+DA  - 2021/12/23
+PB  - Springer Science and Business Media LLC
+SP  - 1729-1748
+IS  - 12
+VL  - 105
+SN  - 0378-1909
+SN  - 1573-5133
+AB  - AbstractPurposely introduced in 1879, Pacific coast Striped Bass Morone saxatilis once supported a commercial fishery and currently supports a recreational fishery in the San Francisco Estuary Watershed, CA, USA; however, the population has been in decline for decades. Since little is known about sub-adult behavior on the Pacific coast, we used acoustic telemetry to investigate seasonal movement patterns and habitat use across three regions (bay, delta, and river) and the effects of temperature and salinity on habitat use over a 2-year period. Sub-adult movement and habitat use differed by year and age. In spring, age-I and age-II sub-adults moved within the delta (60%), river (20%), and bay (20%) regions, and by summer, some individuals moved to the bay (36%), while others remained in the delta (42%) and river (22%). Fall and winter showed equal movement between the bay and delta regions. During year 2, age-II and age-III fish inhabited the bay region across all seasons with the exception of spring when a few individuals migrated up river. Generally, sub-adults did not inhabit the river region in fall or winter. Sub-adults were not detected in water temperatures &lt; 10 °C and occurred most often in 20–25 °C. Younger sub-adults inhabited limnetic habitat where older fish inhabited mesohaline and polyhaline habitats. Our findings suggest that sub-adult seasonal movement patterns and habitat use hotspots have important fishery management implications and can be useful to address concerns over how this non-native fish’s predation impacts native and endangered fishes.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.2113/2021/3395719
+UR  - http://dx.doi.org/10.2113/2021/3395719
+TI  - Spatiotemporal Rates of Tectonic Deformation and Landscape Evolution above a Laterally Propagating Thrust Fault: Wheeler Ridge Anticline, California, USA
+T2  - Lithosphere
+AU  - Kleber, Emily J.
+AU  - DeVecchio, Duane E.
+AU  - Arrowsmith, J. Ramón
+AU  - Rittenour, Tammy M.
+PY  - 2021
+DA  - 2021/10/29
+PB  - GeoScienceWorld
+IS  - Special 2
+VL  - 2021
+SN  - 1947-4253
+SN  - 1941-8264
+AB  - AbstractThe Wheeler Ridge anticline, located in the southern San Joaquin Valley of California, USA, is a well-studied and classic example of a laterally growing fault propagation fold. New high-resolution lidar elevation data combined with nine infrared stimulated luminescence (IRSL) ages of discrete geomorphic surfaces that are bounded by prominent transverse wind and river gaps allow for investigation of tectonic topography through time. Luminescence ages from four of the six surfaces yield depositional ages that range from 32 ka to 153 ka, which are broadly consistent with a previously published soil chronosequence. Our graphical modeling indicates an average surface uplift rate of ~2.1 mm/yr and an average along-strike fold propagation rate of ~20 mm/yr. However, our probabilistic modelling and topographic analysis suggest a rate decrease of both uplift and lateral propagation toward the fault tip from ~2.4 to 0.7 mm/yr and from ~49 to 14 mm/yr, respectively. Rate decreases are not progressive but rather occur in punctuated deformational intervals across previously documented structural barriers (tear faults) resulting in a fold that is characterized by discrete segments that exhibit a systematic deformational decrease toward the east. The punctuated tectonic growth of Wheeler Ridge has also locally controlled the topographic evolution of the anticline by effecting the formational timing and position of at least seven wind and river gaps that result from multiple north-flowing antecedent streams that traverse the growing structure. We quantify the timing of wind and river gap formation, based on IRSL results and inferred incision rates, and present a model for the spatiotemporal evolution of transverse drainages and the topographic development of Wheeler Ridge. Our chronology of gap formation broadly correlates with regional Late Pleistocene dry climate intervals suggesting that both tectonics and climate were integral to the geomorphic development of the Wheeler Ridge anticline.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss1art1
+UR  - http://dx.doi.org/10.15447/sfews.2021v19iss1art1
+TI  - Statistical Evaluation of Behavior and Population Dynamics Models Predicting Movement and Proportional Entrainment Loss of Adult Delta Smelt in the Sacramento–San Joaquin River Delta
+T2  - San Francisco Estuary and Watershed Science
+AU  - Korman, Josh
+AU  - Gross, Edward
+AU  - Grimaldo, Lenny
+PY  - 2021
+DA  - 2021/03/16
+PB  - California Digital Library (CDL)
+IS  - 1
+VL  - 19
+SN  - 1546-2366
+SN  - 1546-2366
+AB  - There has been considerable debate about effects of entrainment of endangered Delta Smelt (Hypomesus transpacificus) at water export facilities located in the Sacramento–San Joaquin River Delta. In this paper we use a behavior-driven movement model (BMM) to simulate the movement of adult Delta Smelt, which, in conjunction with a population dynamics model, estimates the proportion of the population that is lost to entrainment, i.e., proportional entrainment loss (PEL). Parameters of the population model are estimated by maximum likelihood by comparing predictions to data from Fall Midwater Trawl (FMWT) and Spring Kodiak Trawl (SKT) surveys, as well as to daily salvage estimates. Our objectives are to evaluate different movement behavior hypotheses, to rank estimates of PEL based on how well predictions fit the data, and to sharpen our understanding of the data to inform future research and monitoring decisions.
+
+We applied the modeling framework to data from water year 2002—a year when salvage was high—and tested 30 combinations of six behavior and five population dynamics models. More complex process and observation assumptions in the population model led to much improved fits in most cases, but did not appreciably influence PEL predictions, which were largely determined by movement predictions from the BMMs. Estimates of PEL varied considerably among behaviors (2% to 40%). The model with the highest predictive capability explained 98% of the variation in FMWT data across regions, 70% of the variation in SKT data across regions and surveys, and 28% and 43% of the daily variation in salvage at federal and state fish screening facilities, respectively. The PEL estimate from this model was 35%, more than double the original estimate from Kimmerer (2008) of 15%. While PEL estimates provided in this study should be considered preliminary, our framework for testing combined behavior-driven movement models and population dynamics models is an improvement compared to earlier efforts.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1038/s41598-020-80517-5
+UR  - http://dx.doi.org/10.1038/s41598-020-80517-5
+TI  - Striped bass (Morone saxatilis) migration timing driven by estuary outflow and sea surface temperature in the San Francisco Bay-Delta, California
+T2  - Scientific Reports
+AU  - Goertler, Pascale
+AU  - Mahardja, Brian
+AU  - Sommer, Ted
+PY  - 2021
+DA  - 2021/01/15
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 11
+SN  - 2045-2322
+AB  - AbstractThe influence of climate on the timing of large-scale animal migrations is a major ecological and resource management concern. Anadromous fish migrations can have broad scale impacts on human communities and marine, aquatic and terrestrial food webs. However, isolating the effects of climate change on the timing of life stage transitions for anadromous fish species is challenging. Striped bass (Morone saxatilis) exhibit striking variation in migration patterns within their natural range, including migratory behaviors that change with latitude, and climate-induced temperature changes are predicted to drive future habitat and distribution changes. Here we explore the linkages between migration and multiple components of coastal and inland aquatic ecosystems impacted by climate change. By leveraging environmental and fisheries monitoring which began in 1969, we describe the upstream migration timing of non-native adult Striped bass influenced by estuary outflow and sea surface temperature in the San Francisco Bay-Delta, California. Striped bass migrated later in years when Delta outflow was greater and sea surface temperature was cooler. It is likely that temperature thresholds in the ocean during the springtime provide a cue for Striped bass to initiate migration, but sea surface temperature may also represent composite climatic trends influencing Striped bass. Further, the observed variation in migration timing of adult Striped bass has implications for predation risk on the seaward-migration of juvenile Chinook salmon.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1061/(asce)gt.1943-5606.0002684
+UR  - http://dx.doi.org/10.1061/(ASCE)GT.1943-5606.0002684
+TI  - System Response of an Interlayered Deposit with Spatially Preferential Liquefaction Manifestations
+T2  - Journal of Geotechnical and Geoenvironmental Engineering
+AU  - Bassal, Patrick C.
+AU  - Boulanger, Ross W.
+PY  - 2021
+DA  - 2021/12
+PB  - American Society of Civil Engineers (ASCE)
+IS  - 12
+VL  - 147
+SN  - 1090-0241
+SN  - 1943-5606
+
+ER  - 
+
+TY  - GENERIC
+DO  - 10.3133/tm6h1
+UR  - http://dx.doi.org/10.3133/tm6H1
+TI  - The basin characterization model—A regional water balance software package
+T2  - Techniques and Methods
+AU  - Flint, Lorraine E.
+AU  - Flint, Alan L.
+AU  - Stern, Michelle A.
+PY  - 2021
+PB  - US Geological Survey
+SN  - 2328-7055
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1190/geo2020-0089.1
+UR  - http://dx.doi.org/10.1190/geo2020-0089.1
+TI  - The effect of power lines on time-domain airborne electromagnetic data
+T2  - GEOPHYSICS
+AU  - Kang, Seogi
+AU  - Dewar, Noah
+AU  - Knight, Rosemary
+PY  - 2021
+DA  - 2021/02/11
+PB  - Society of Exploration Geophysicists
+SP  - E123-E141
+IS  - 2
+VL  - 86
+SN  - 0016-8033
+SN  - 1942-2156
+AB  -  The acquisition of airborne electromagnetic (AEM) data colocated with water well data provides an essential data set for constructing an accurate rock-physics relationship between resistivity from AEM and lithology from wells. Results from an AEM survey in Butte and Glenn Counties, California, USA, where 41 water wells are located within 100 m of the AEM flight lines, provide a unique opportunity to investigate the effect of water wells on AEM data. Based on systematic numerical analyses and examination of the field data, we find that the only noise source related to the wells that affects the AEM signals in our study area is the power lines; the effect of the steel casings in the study area is negligible. Our numerical simulations yield two important findings: (1) the effect of the power line is mainly dependent upon the resistivity of the ground pathway between the base of the power-line poles, and (2) for the resistivity structure in the study area, when the ground contact resistance is sufficiently low, the effect of the power line will be observed in the AEM data until there is a separation distance of 174 m from the power line; the total power-line percentage effect less than 3% has been considered to be negligible. However, we find that, in the field data, an average separation distance between the power line and high-quality AEM data (i.e., no impact from the power lines) is only 60% of this predicted distance. We attribute this to the high ground contact resistance caused by degradation of the grounded electrodes located at the bottom of the power-line poles. For our 41 wells, after removing any soundings contaminated by power-line noise, we are left with high-quality soundings located 0–160 m from the water wells, with an average distance of 77 m. 
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1175/mwr-d-20-0212.1
+UR  - http://dx.doi.org/10.1175/MWR-D-20-0212.1
+TI  - The Influence of Antecedent Atmospheric River Conditions on Extratropical Cyclogenesis
+T2  - Monthly Weather Review
+AU  - Zhang, Zhenhai
+AU  - Ralph, F. Martin
+PY  - 2021
+DA  - 2021/05
+PB  - American Meteorological Society
+SP  - 1337-1357
+IS  - 5
+VL  - 149
+SN  - 0027-0644
+SN  - 1520-0493
+AB  - AbstractSome extratropical cyclones (ETC) begin their development in close proximity to a preexisting atmospheric river (AR). This study investigates the differences in the cyclogenesis stage between these cyclogenesis events and those that begin without an AR nearby. Well-established ETC and AR detection methods are applied to reanalysis over the North Pacific during the 1979–2009 cool seasons (November–March). Of the 3137 cyclogenesis cases detected, 35% are associated with a nearby AR at the time of initial cyclogenesis. Of all 448 cyclones that deepened explosively in the 24 h after their initiation, 60% began with a preexisting AR nearby. The roles of both dry and diabatic processes that contribute to cyclogenesis are examined, specifically, low-level baroclinicity, upper-level forcing, water vapor inflow, and latent heating. ETCs that develop associated with a preexisting AR receive nearly 80% more water vapor inflow on average, enhancing latent heating and intensifying cyclone deepening in the genesis stage. In contrast, neither low-level baroclinicity nor upper-level potential vorticity exhibit statistically significant differences between cyclogenesis events with and without an AR. Cyclogenesis events associated with an exceptionally strong AR at the ETC initial time deepen even more rapidly in the genesis stage, indicating that the intensity of an antecedent AR can modulate cyclogenesis. About half of the cyclogenesis cases off the U.S. West Coast are associated with ARs at their initial time. These results imply that errors in initial conditions related to ARs can contribute to errors in both AR and ETC predictions, as well as their concomitant impacts.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/hyp.14142
+UR  - http://dx.doi.org/10.1002/hyp.14142
+TI  - The Kings River Experimental Watersheds: Infrastructure and data
+T2  - Hydrological Processes
+AU  - Wagenbrenner, Joseph W.
+AU  - Dralle, David N.
+AU  - Safeeq, Mohammad
+AU  - Hunsaker, Carolyn T.
+PY  - 2021
+DA  - 2021/05
+PB  - Wiley
+IS  - 5
+VL  - 35
+SN  - 0885-6087
+SN  - 1099-1085
+AB  - AbstractThe Kings River Experimental Watersheds (KREW) were established in 2002 to expand our knowledge of catchment physical, chemical, and biological processes in Sierra Nevada headwater forests, and to better understand the impacts of prescribed burning and forest thinning on these processes. Two elevation strata (high and low) were selected for the KREW sites, with four independent catchments and one nested catchment within each stratum. Both high and low elevation study areas were instrumented for continuous measurements of meteorology, streamflow, and turbidity. Atmospheric and stream chemistry, suspended sediment concentration, and bedload sediment delivery were measured on a regular schedule. Soil chemical and physical properties and vegetation were systematically sampled before and after the initial thinning and prescribed burning treatments, which were implemented between 2012 and 2016. Post‐treatment data collection continues today as we explore opportunities for the second round of possible treatments. The critical research infrastructure and long‐term baseline data collection has been instrumental in building partnerships with downstream managers, end users, non‐governmental organizations, academic researchers, and national research programmes. Contributions to date include fundamental understanding of magnitude and variability of nutrient deposition; carbon, nutrient, and major ion dynamics in headwater streams; aquatic algae and macroinvertebrate populations; vegetation composition and structure; and streamflow responses to precipitation in the two elevation strata. Data from the experimental watersheds also support calibration and validation of diverse hydrologic models used for water resources planning.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1029/2021jg006573
+UR  - http://dx.doi.org/10.1029/2021JG006573
+TI  - Tidal and Nontidal Marsh Restoration: A Trade‐Off Between Carbon Sequestration, Methane Emissions, and Soil Accretion
+T2  - Journal of Geophysical Research: Biogeosciences
+AU  - Arias‐Ortiz, Ariane
+AU  - Oikawa, Patricia Y.
+AU  - Carlin, Joseph
+AU  - Masqué, Pere
+AU  - Shahan, Julie
+AU  - Kanneg, Sadie
+AU  - Paytan, Adina
+AU  - Baldocchi, Dennis D.
+PY  - 2021
+DA  - 2021/11/23
+PB  - American Geophysical Union (AGU)
+IS  - 12
+VL  - 126
+SN  - 2169-8953
+SN  - 2169-8961
+AB  - AbstractSupport for coastal wetland restoration projects that consider carbon (C) storage as a climate mitigation benefit is growing as coastal wetlands are sites of substantial C sequestration. However, the climate footprint of wetland restoration remains controversial as wetlands can also be large sources of methane (CH4). We quantify the vertical fluxes of C in restored fresh and oligohaline nontidal wetlands with managed hydrology and a tidal euhaline marsh in California's San Francisco Bay‐Delta. We combine the use of eddy covariance atmospheric flux measurements with 210Pb‐derived soil C accumulation rates to quantify the C sequestration efficiency of restored wetlands and their associated climate mitigation service. Nontidal managed wetlands were the most efficient in burying C on‐site, with soil C accumulation rates as high as their net atmospheric C uptake (−280 ± 90 and −350 ± 150 g C m−2 yr−1). In contrast, the restored tidal wetland exhibited lower C burial rates over decadal timescales (70 ± 19 g C m−2 yr−1) that accounted for ∼13%–23% of its annual C uptake, suggesting that the remaining fraction is exported via lateral hydrologic flux. From an ecosystem radiative balance perspective, the restored tidal wetland showed a &gt; 10 times higher CO2‐sequestration to CH4‐emission ratio than the nontidal managed wetlands. Thus overall, tidal wetland restoration resulted in a negative radiative forcing (cooling) through increased soil C accumulation, while nontidal wetland restoration led to an early positive forcing (warming) through increased CH4 emissions potentially lasting between 2.1 ± 2.0 to 8 ± 4 decades.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/csp2.497
+UR  - http://dx.doi.org/10.1111/csp2.497
+TI  - Toward climate change refugia conservation at an ecoregion scale
+T2  - Conservation Science and Practice
+AU  - Balantic, Cathleen
+AU  - Adams, Andrea
+AU  - Gross, Shana
+AU  - Mazur, Rachel
+AU  - Sawyer, Sarah
+AU  - Tucker, Jody
+AU  - Vernon, Marian
+AU  - Mengelt, Claudia
+AU  - Morales, Jennifer
+AU  - Thorne, James H.
+AU  - Brown, Timothy M.
+AU  - Athearn, Nicole
+AU  - Morelli, Toni Lyn
+PY  - 2021
+DA  - 2021/07/12
+PB  - Wiley
+IS  - 9
+VL  - 3
+SN  - 2578-4854
+SN  - 2578-4854
+AB  - AbstractClimate change uncertainty poses serious challenges to conservation efforts. One emerging conservation strategy is to identify and conserve climate change refugia: areas relatively buffered from contemporary climate change that enable persistence of valued resources. This management paradigm may be pursued at broad scales by leveraging existing resources and placing them into a tangible framework to stimulate further collaboration that fosters management decision‐making. Here, we describe a framework for moving toward operationalizing climate change refugia conservation at an ecoregion scale with an analysis for the Sierra Nevada ecoregion (CA, USA). Structured within the Climate Change Refugia Conservation Cycle, we identify a preliminary suite of conservation priorities for the ecoregion, and demonstrate how existing mapping, data, and applications could be used for identifying, prioritizing, managing, and monitoring refugia. We focus on six stakeholder‐identified conservation priorities, including two process‐based refugial priorities (snow and fire), and four ecosystem‐based refugial priorities (meadows, giant sequoia, old growth forests, and alpine communities). This pilot overview of concepts and resources provides a foundation for both near‐term implementation and further discussion in moving from science to conservation practice. Such an approach may provide new practical insights for ecosystem management at ecoregion scales in the face of climate change.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.memsci.2021.119180
+UR  - http://dx.doi.org/10.1016/j.memsci.2021.119180
+TI  - Tuning the hydraulic permeability and molecular weight cutoff (MWCO) of surface nano-structured ultrafiltration membranes
+T2  - Journal of Membrane Science
+AU  - Chen, Yian
+AU  - Kim, Soomin
+AU  - Cohen, Yoram
+PY  - 2021
+DA  - 2021/07
+PB  - Elsevier BV
+SP  - 119180
+VL  - 629
+SN  - 0376-7388
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.3389/fenvs.2021.642906
+UR  - http://dx.doi.org/10.3389/fenvs.2021.642906
+TI  - UAV to Inform Restoration: A Case Study From a California Tidal Marsh
+T2  - Frontiers in Environmental Science
+AU  - Haskins, John
+AU  - Endris, Charlie
+AU  - Thomsen, Alexandra S.
+AU  - Gerbl, Fuller
+AU  - Fountain, Monique C.
+AU  - Wasson, Kerstin
+PY  - 2021
+DA  - 2021/04/01
+PB  - Frontiers Media SA
+VL  - 9
+SN  - 2296-665X
+AB  - Monitoring of environmental restoration is essential to communicate progress and improve outcomes of current and future projects, but is typically done in a very limited capacity due to budget and personnel constraints. Unoccupied aerial vehicles (UAVs) have been used in a variety of natural and human-influenced environments and have been found to be time- and cost-efficient, but have not yet been widely applied to restoration contexts. In this study, we evaluated the utility of UAVs as an innovative tool for monitoring tidal marsh restoration. We first optimized methods for creating high-resolution orthomosaics and Structure from Motion digital elevation models from UAV imagery by conducting experiments to determine an optimal density of ground control points (GCPs) and flight altitude for UAV monitoring of topography and new vegetation. We used elevation models and raw and classified orthomosaics before, during, and after construction of the restoration site to communicate with various audiences and inform adaptive management. We found that we could achieve 1.1 cm vertical accuracy in our elevation models using 2.1 GCPs per hectare at a flight altitude of 50 m. A lower flight altitude of 30 m was more ideal for capturing patchy early plant cover while still being efficient enough to cover the entire 25-hectare site. UAV products were valuable for several monitoring applications, including calculating the volume of soil moved during construction, tracking whether elevation targets were achieved, quantifying and examining the patterns of vegetation development, and monitoring topographic change including subsidence, erosion, and creek development. We found UAV monitoring advantageous for the ability to survey areas difficult to access on foot, capture spatial variation, tailor timing of data collection to research needs, and collect a large amount of accurate data rapidly at relatively low cost, though with some compromise in detail compared with field monitoring. In summary, we found that UAV data informed the planning, implementation and monitoring phases of a major landscape restoration project and could be valuable for restoration in many habitats.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/ecs2.3330
+UR  - http://dx.doi.org/10.1002/ecs2.3330
+TI  - Understanding community assembly rules in managed floodplain food webs
+T2  - Ecosphere
+AU  - Corline, Nicholas J.
+AU  - Peek, Ryan A.
+AU  - Montgomery, Jacob
+AU  - Katz, Jacob V. E.
+AU  - Jeffres, Carson A.
+PY  - 2021
+DA  - 2021/02
+PB  - Wiley
+IS  - 2
+VL  - 12
+SN  - 2150-8925
+SN  - 2150-8925
+AB  - AbstractCommunity assembly has been an important topic in ecological research and theory for over a century. Recently, restoration ecologists have emphasized the use of community assembly rules, such as environmental filtering, to better inform management actions. Although there has been a strong call for the use of community assembly rules in terrestrial restoration ecology, few studies have examined their potential use in providing habitat benefits such as food resources to native species in large‐scale managed aquatic ecosystems. In this study, we found evidence of deterministic community assembly mechanisms in zooplankton communities in floodplain and seasonally inundated off‐channel habitats in California’s Central Valley. Additionally, we found that all sampled off‐channel floodplain habitat types had similar zooplankton communities and that assembly in floodplain habitats was governed by variables associated with increased water residence time. This study is the first to determine community assembly rules in floodplain‐river ecosystems in order to assist managers in providing floodplain food‐web benefits to native fish and wildlife species at the landscape scale.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss3art3
+UR  - http://dx.doi.org/10.15447/sfews.2021v19iss3art3
+TI  - Use of a Managed Flow Pulse as Food Web Support for Estuarine Habitat
+T2  - San Francisco Estuary and Watershed Science
+AU  - 
+AU  - Frantzich, Jared
+AU  - Davis, Brittany
+AU  - 
+AU  - MacWilliams, Michael
+AU  - 
+AU  - Bever, Aaron
+AU  - 
+AU  - Sommer, Ted
+AU  - 
+PY  - 2021
+DA  - 2021/09/24
+PB  - California Digital Library (CDL)
+IS  - 3
+VL  - 19
+SN  - 1546-2366
+AB  - While freshwater inflow has been a major focus of resource management in estuaries, including the upper San Francisco Estuary, there is a growing interest in using focused flow actions to maximize benefits for specific regions, habitats, and species. As a test of this concept, in summer 2016, we used a managed flow pulse to target an ecologically important region: a freshwater tidal slough complex (Cache Slough Complex–CSC). Our goal was to improve estuarine habitat by increasing net flows through CSC to enhance downstream transport of lower trophic-level resources, an important driver for fishes such as the endangered Delta Smelt Hypomesus transpacificus. We used regional water infrastructure to direct 18.5 million m³ of Sacramento River flow into its adjacent Yolo Bypass floodplain, where the pulse continued through CSC. Simulations using a 3-D hydrodynamic model (UnTRIM) indicated that the managed flow pulse had a large effect on the net flow of water through Yolo Bypass, and between CSC and further downstream. Multiple water quality constituents (specific conductivity, dissolved oxygen, nutrients [NO₃ + NO₂, NH₄, PO₄]) varied across the study region, and showed a strong response to the flow pulse. In addition, the lower Sacramento River had increased phytoplankton biomass and improved food quality indices (estimated from long-chain essential fatty acids) after the flow pulse. The managed flow pulse resulted in increased densities of zooplankton (copepods, cladocerans) demonstrating potential advection from upper floodplain channels into the target CSC and Sacramento River regions. This study was conducted during a single year, which may have had unique characteristics; however, we believe that our study is an instructive example of how a relatively modest change in net flows can generate measurable changes in ecologically relevant metrics, and how an adaptive management action can help inform resource management.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.15447/sfews.2021v19iss2art6
+UR  - http://dx.doi.org/10.15447/SFEWS.2021V19ISS2ART6
+TI  - Use of the SmeltCam as an Efficient Fish Sampling Alternative Within the San Francisco Estuary
+T2  - San Francisco Estuary and Watershed Science
+AU  - 
+AU  - Huntsman, Brock
+AU  - Feyrer, Federick
+AU  - 
+AU  - Young, Matthew
+AU  - 
+PY  - 2020
+DA  - 2020/06/07
+PB  - California Digital Library (CDL)
+IS  - 2
+VL  - 19
+SN  - 1546-2366
+AB  - Resource managers often rely on long-term monitoring surveys to detect trends in biological data. However, no survey gear is 100% efficient, and many sources of bias can be responsible for detecting or not detecting biological trends. The SmeltCam is an imaging apparatus developed as a potential sampling alternative to long-term trawling gear surveys within the San Francisco Estuary, California, to reduce handling stress on sensitive species like the Delta Smelt (Hypomesus transpacificus). Although believed to be a reliable alternative to closed cod-end trawling surveys, no formal test of sampling efficiency has been implemented using the SmeltCam. We used a paired deployment of the SmeltCam and a conventional closed cod-end trawl within the Napa River and San Pablo Bay, a Bayesian binomial N-mixture model, and data simulations to determine the sampling efficiency of both deployed gear types to capture a Delta Smelt surrogate (Northern Anchovy, Engraulis mordax) and to test potential bias in our modeling framework. We found that retention efficiency—a component of detection efficiency that estimates the probability a fish is retained by the gear, conditional on gear contact—was slightly higher using the SmeltCam (mean = 0.58) than the conventional trawl (mean = 0.47, Probability SmeltCam retention efficiency &gt; trawl retention efficiency = 94%). We also found turbidity did not affect the SmeltCam’s retention efficiency, although total fish density during an individual tow improved the trawl’s retention efficiency. Simulations also showed the binomial model was accurate when model assumptions were met. Collectively, our results suggest the SmeltCam to be a reliable alternative to sampling with conventional trawling gear, but future tests are needed to confirm whether the SmeltCam is as reliable when applied to taxa other than Northern Anchovy over a greater range of conditions.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1061/(asce)gt.1943-5606.0002610
+UR  - http://dx.doi.org/10.1061/(ASCE)GT.1943-5606.0002610
+TI  - Using Conditional Random Fields for a Spatially Variable Liquefiable Foundation Layer in Nonlinear Dynamic Analyses of Embankments
+T2  - Journal of Geotechnical and Geoenvironmental Engineering
+AU  - Paull, Nicholas A.
+AU  - Boulanger, Ross W.
+AU  - DeJong, Jason T.
+AU  - Friesen, Steven J.
+PY  - 2021
+DA  - 2021/11
+PB  - American Society of Civil Engineers (ASCE)
+IS  - 11
+VL  - 147
+SN  - 1090-0241
+SN  - 1943-5606
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/1752-1688.12942
+UR  - http://dx.doi.org/10.1111/1752-1688.12942
+TI  - Value of InSAR for Monitoring Land Subsidence to Support Water Management in the San Joaquin Valley, California
+T2  - JAWRA Journal of the American Water Resources Association
+AU  - Jones, Jeanine
+AU  - Jones, Cathleen E.
+AU  - Bekaert, David P.S.
+PY  - 2021
+DA  - 2021/08/21
+PB  - Wiley
+SP  - 995-1001
+IS  - 6
+VL  - 58
+SN  - 1093-474X
+SN  - 1752-1688
+AB  - AbstractLand subsidence caused by groundwater extraction in California’s San Joaquin Valley has been occurring for many decades. In situ monitoring of subsidence in this large geographic area has historically been limited. The California Department of Water Resources (CDWR) sought the National Aeronautics and Space Administration’s assistance for satellite‐ and aircraft‐based synthetic aperture radar interferometry (InSAR) monitoring of subsidence during the 2012–2016 drought. InSAR was successful in cost‐effectively providing first‐ever synoptic measurement of land subsidence over the entire San Joaquin Valley. The purpose of the monitoring was screening or hotspot detection of impact areas affecting critical water infrastructure. Long‐term cumulative land subsidence has substantially reduced the conveyance capacity of sections of major valley canals and the monitoring revealed that subsidence rates observed during the drought ranked with maximum historically observed rates, highlighting risks to water infrastructure. InSAR also identified new and rapidly emerging hotspots adjacent to critical water infrastructure. The success of the InSAR monitoring for drought response resulted in CDWR’s decision to subsequently provide InSAR data as technical assistance to local agencies required to comply with recent state groundwater management legislation.
+
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s00300-021-02923-3
+UR  - http://dx.doi.org/10.1007/s00300-021-02923-3
+TI  - Warming, not CO2-acidified seawater, alters otolith development of juvenile Antarctic emerald rockcod (Trematomus bernacchii)
+T2  - Polar Biology
+AU  - Naslund, Andrew W.
+AU  - Davis, Brittany E.
+AU  - Hobbs, James A.
+AU  - Fangue, Nann A.
+AU  - Todgham, Anne E.
+PY  - 2021
+DA  - 2021/08/07
+PB  - Springer Science and Business Media LLC
+SP  - 1917-1923
+IS  - 9
+VL  - 44
+SN  - 0722-4060
+SN  - 1432-2056
+AB  - AbstractThe combustion of fossil fuels is currently causing rapid rates of ocean warming and acidification worldwide. Projected changes in these parameters have been repeatedly observed to stress the physiological limits and plasticity of many marine species from the molecular to organismal levels. High latitude oceans are among the fastest changing ecosystems; therefore, polar species are projected to be some of the most vulnerable to climate change. Antarctic species are particularly sensitive to environmental change, having evolved for millions of years under stable ocean conditions. Otoliths, calcified structures found in a fish’s inner ear used to sense movement and direction, have been shown to be affected by both warming and CO2-acidified seawater in temperate and tropical fishes but there is no work to date on Antarctic fishes. In this study, juvenile emerald rockcod (Trematomus bernacchii) were exposed to projected seawater warming and CO2-acidification for the year 2100 over 28 days. Sagittal otoliths were analyzed for changes in area, perimeter, length, width and shape. We found ocean warming increased the growth rate of otoliths, while CO2-acidified seawater and the interaction of warming and acidification did not have an effect on otolith development. Elevated temperature also altered the shape of otoliths. If otolith development is altered under future warming scenarios, sensory functions such as hearing, orientation, and movement may potentially be impaired. Changes in these basic somatic abilities could have broad implications for the general capabilities and ecology of early life stages of Antarctic fishes.
+
+ER  - 
+
+
