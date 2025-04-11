@@ -3,16 +3,16 @@
 This repo contains code used to prepare DWR manuscript data for classification by discipline and subject matter. Specifically, this repo houses R scripts for processing publication DOIs and generating RIS citation files that include abstracts. It includes two main workflows:
 
 1. **Generate RIS file:**  
-   A script that reads a text file containing DOIs and creates a basic RIS file
-   with minimal citation fields. It also logs any errors that indicate that the
-   DOI is invalid.  
+   A script that reads a [text file](doi_sample.txt) containing DOIs and creates
+   a basic [RIS file](ris_sample.ris) with minimal citation fields. It also logs
+   any errors that indicate that the DOI is invalid.  
    **Script:** [01_generate_ris.R](01_generate_ris.R)
 
 2. **Enrich RIS with abstracts:**  
    A script that reads the previously generated RIS file, retrieves publication
    abstracts from the [Crossref API](https://www.crossref.org/documentation/retrieve-metadata/rest-api/),
-   and appends them to the RIS records. It also logs any errors or cases where
-   no abstract is available.  
+   and appends them to the RIS records to create a [RIS file with abstracts](ris_sample_with_abstracts.ris).
+   It also logs any errors or cases where no abstract is available.  
    **Script:** [02_pull_abstracts.R](02_pull_abstracts.R)
 
 *Note: the input and output documents currently in this repository are meant to*
