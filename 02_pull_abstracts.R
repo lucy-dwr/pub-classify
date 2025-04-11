@@ -4,7 +4,11 @@ output_ris <- here::here("ris_sample_with_abstracts.ris")
 error_log_file <- here::here("abstract_error_log.csv")
 
 # initialize an empty data frame to log errors
-error_log <- data.frame(doi = character(), error = character(), stringsAsFactors = FALSE)
+error_log <- data.frame(
+  doi = character(),
+  error = character(),
+  stringsAsFactors = FALSE
+)
 
 # read in the RIS file as text lines
 ris_lines <- readLines(input_ris, encoding = "UTF-8")
@@ -37,7 +41,10 @@ process_record <- function(record) {
     if (httr::status_code(resp) != 200) {
       my_error <- paste("HTTP status not 200:", httr::status_code(resp))
       # log the error for this DOI
-      error_log <<- rbind(error_log, data.frame(doi = doi, error = my_error, stringsAsFactors = FALSE))
+      error_log <<- rbind(
+        error_log,
+        data.frame(doi = doi, error = my_error, stringsAsFactors = FALSE)
+      )
       stop(my_error)
     }
     # parse the JSON response.
@@ -46,7 +53,10 @@ process_record <- function(record) {
   }, error = function(e) {
     my_error <- paste("Failed to retrieve metadata:", e$message)
     # log the error for this DOI
-    error_log <<- rbind(error_log, data.frame(doi = doi, error = my_error, stringsAsFactors = FALSE))
+    error_log <<- rbind(
+      error_log,
+      data.frame(doi = doi, error = my_error, stringsAsFactors = FALSE)
+    )
     message("Failed to retrieve metadata for DOI: ", doi, ". Error: ", e$message)
     return(NULL)
   })
@@ -68,7 +78,10 @@ process_record <- function(record) {
   } else {
     # Log that no abstract was found
     no_abs_msg <- "No abstract found"
-    error_log <<- rbind(error_log, data.frame(doi = doi, error = no_abs_msg, stringsAsFactors = FALSE))
+    error_log <<- rbind(
+      error_log,
+      data.frame(doi = doi, error = no_abs_msg, stringsAsFactors = FALSE)
+    )
     message("No abstract found for DOI: ", doi)
   }
   
@@ -79,7 +92,10 @@ process_record <- function(record) {
 records_with_abstracts <- lapply(records, process_record)
 
 # flatten the list of records back into a single character vector
-updated_ris <- unlist(lapply(records_with_abstracts, function(rec) c(rec, "")), use.names = FALSE)
+updated_ris <- unlist(
+  lapply(records_with_abstracts, function(rec) c(rec, "")),
+  use.names = FALSE
+)
 
 # write the updated RIS content to the output file
 writeLines(updated_ris, output_ris, useBytes = TRUE)
