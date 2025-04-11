@@ -23,7 +23,7 @@ process_record <- function(record) {
   # identify the DOI line; for RIS the DOI is marked "DO  -"
   doi_line <- record[grepl("^DO  -", record)]
   if (length(doi_line) == 0) {
-    # no DOI; cannot look up an abstract.
+    # no DOI; cannot look up an abstract
     message("No DOI found in record; skipping enrichment.")
     return(record)
   }
@@ -47,7 +47,7 @@ process_record <- function(record) {
       )
       stop(my_error)
     }
-    # parse the JSON response.
+    # parse the JSON response
     metadata_text <- httr::content(resp, as = "text", encoding = "UTF-8")
     jsonlite::fromJSON(metadata_text, simplifyVector = TRUE)
   }, error = function(e) {
@@ -76,7 +76,7 @@ process_record <- function(record) {
     record <- c(record, paste("AB  -", abstract_clean))
     message("Abstract added for DOI: ", doi)
   } else {
-    # Log that no abstract was found
+    # log that no abstract was found
     no_abs_msg <- "No abstract found"
     error_log <<- rbind(
       error_log,

@@ -5,17 +5,17 @@ clean_dois <- sub("^https?://(dx\\.)?doi\\.org/", "", dois)
 
 output_file <- here::here("ris_sample.ris")
 
-# set up the DOI resolver URL and header
-base_url <- "https://dx.doi.org/"
-hdr <- "application/x-research-info-systems"
-names(hdr) <- "Accept"
-
 # create a data frame to log problematic DOIs
 error_log <- data.frame(
   doi = character(),
   error = character(),
   stringsAsFactors = FALSE
 )
+
+# set up the DOI resolver URL and header
+base_url <- "https://dx.doi.org/"
+hdr <- "application/x-research-info-systems"
+names(hdr) <- "Accept"
 
 # iterate over each cleaned DOI and try to download the RIS entry
 for (doi in clean_dois) {
