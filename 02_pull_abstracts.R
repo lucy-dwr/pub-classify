@@ -66,6 +66,9 @@ process_record <- function(record) {
     record <- c(record, paste("AB  -", abstract_clean))
     message("Abstract added for DOI: ", doi)
   } else {
+    # Log that no abstract was found
+    no_abs_msg <- "No abstract found"
+    error_log <<- rbind(error_log, data.frame(doi = doi, error = no_abs_msg, stringsAsFactors = FALSE))
     message("No abstract found for DOI: ", doi)
   }
   
